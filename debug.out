@@ -1,0 +1,1178 @@
+Both pretrained autoencoder and inferred z exist. No need to pretrain the autoencoder model.
+Only pretrained annocluster exists. Need to infer z and no need to pretrain the annocluster model.
+Only pretrained KLCLR exists. Need to infer z and no need to pretrain the KLCLR model.
+Only pretrained annocluster exists. Need to infer z and no need to pretrain the annocluster model.
+Only pretrained KLCLR exists. Need to infer z and no need to pretrain the KLCLR model.
+Start pretraining the annocluster model ... 
+
+loss = 0.3834099601144376
+save optimal model
+
+
+loss = 0.23476410430410635
+save optimal model
+
+
+loss = 0.2232254270626151
+save optimal model
+
+
+loss = 0.21928436924581943
+save optimal model
+
+
+loss = 0.21695456297501273
+save optimal model
+
+
+loss = 0.2154781688814578
+save optimal model
+
+
+loss = 0.2140761199204818
+save optimal model
+
+
+loss = 0.21306940394899118
+save optimal model
+
+
+loss = 0.21222662018693011
+save optimal model
+
+
+loss = 0.21171732441238736
+save optimal model
+
+
+loss = 0.2109759974738826
+save optimal model
+
+
+loss = 0.2104530878688978
+save optimal model
+
+
+loss = 0.21008560579756033
+save optimal model
+
+
+loss = 0.20959401195463928
+save optimal model
+
+
+loss = 0.20926193763380466
+save optimal model
+
+
+loss = 0.20896866917610168
+save optimal model
+
+
+loss = 0.20870533520760742
+save optimal model
+
+
+loss = 0.20854152479897375
+save optimal model
+
+
+loss = 0.20832543528598288
+save optimal model
+
+
+loss = 0.2081871985093407
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 1.8922214197075886
+save optimal model
+
+
+loss = 1.1153223462726758
+save optimal model
+
+
+loss = 1.0049426192822664
+save optimal model
+
+
+loss = 0.9262838700543279
+save optimal model
+
+
+loss = 0.8755224994991136
+save optimal model
+
+
+loss = 0.8353109618891841
+save optimal model
+
+
+loss = 0.8139007272927657
+save optimal model
+
+
+loss = 0.8101196703703507
+save optimal model
+
+
+loss = 0.8044943317123081
+save optimal model
+
+
+loss = 0.799341372821642
+save optimal model
+
+
+loss = 0.7940847977347996
+save optimal model
+
+
+loss = 0.7947965031084807
+
+loss = 0.7869837750559268
+save optimal model
+
+
+loss = 0.7845207245453544
+save optimal model
+
+
+loss = 0.7821658253669739
+save optimal model
+
+
+loss = 0.7834920287132263
+
+loss = 0.7814312888228375
+save optimal model
+
+
+loss = 0.7807203427605007
+save optimal model
+
+
+loss = 0.7801570244457411
+save optimal model
+
+
+loss = 0.7806984212087549
+Start pretraining the annocluster model ... 
+
+loss = 0.391060009598732
+save optimal model
+
+
+loss = 0.2312909908916639
+save optimal model
+
+
+loss = 0.21975726601870163
+save optimal model
+
+
+loss = 0.21625011381895645
+save optimal model
+
+
+loss = 0.21477223090503528
+save optimal model
+
+
+loss = 0.21325930758662845
+save optimal model
+
+
+loss = 0.21214122875877048
+save optimal model
+
+
+loss = 0.21140523319659027
+save optimal model
+
+
+loss = 0.2108748127584872
+save optimal model
+
+
+loss = 0.21017478989518207
+save optimal model
+
+
+loss = 0.20960065528102542
+save optimal model
+
+
+loss = 0.20928463275017944
+save optimal model
+
+
+loss = 0.2091086552194927
+save optimal model
+
+
+loss = 0.20880938094595206
+save optimal model
+
+
+loss = 0.2085987731166508
+save optimal model
+
+
+loss = 0.20839099262071692
+save optimal model
+
+
+loss = 0.2081336515105289
+save optimal model
+
+
+loss = 0.20782594512338223
+save optimal model
+
+
+loss = 0.20756386803544086
+save optimal model
+
+
+loss = 0.20754672327767248
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 1.9732517729634824
+save optimal model
+
+
+loss = 1.0622728596562925
+save optimal model
+
+
+loss = 0.9834253191947937
+save optimal model
+
+
+loss = 0.957296900127245
+save optimal model
+
+
+loss = 0.9383185713187508
+save optimal model
+
+
+loss = 0.9229356491047404
+save optimal model
+
+
+loss = 0.916227418443431
+save optimal model
+
+
+loss = 0.9097387635189554
+save optimal model
+
+
+loss = 0.9065560646679091
+save optimal model
+
+
+loss = 0.9051278674084208
+save optimal model
+
+
+loss = 0.9030883053074712
+save optimal model
+
+
+loss = 0.9022673238878665
+save optimal model
+
+
+loss = 0.901728560095248
+save optimal model
+
+
+loss = 0.9002793534942295
+save optimal model
+
+
+loss = 0.898042935392131
+save optimal model
+
+
+loss = 0.8987087970194609
+
+loss = 0.8971811714379684
+save optimal model
+
+
+loss = 0.8961515400720679
+save optimal model
+
+
+loss = 0.894916806531989
+save optimal model
+
+
+loss = 0.8944996491722439
+save optimal model
+
+Start pretraining the annocluster model ... 
+
+loss = 0.3842848293159319
+save optimal model
+
+
+loss = 0.22986172139644623
+save optimal model
+
+
+loss = 0.21876708709675333
+save optimal model
+
+
+loss = 0.21534549671670664
+save optimal model
+
+
+loss = 0.21355946621169214
+save optimal model
+
+
+loss = 0.21226914486159448
+save optimal model
+
+
+loss = 0.21135390647079633
+save optimal model
+
+
+loss = 0.21066090075866037
+save optimal model
+
+
+loss = 0.21008202822312064
+save optimal model
+
+
+loss = 0.20970368061376654
+save optimal model
+
+
+loss = 0.2093153680148332
+save optimal model
+
+
+loss = 0.20882838640523993
+save optimal model
+
+
+loss = 0.20848313038763794
+save optimal model
+
+
+loss = 0.20830862353677335
+save optimal model
+
+
+loss = 0.20793078451052957
+save optimal model
+
+
+loss = 0.20767309678637463
+save optimal model
+
+
+loss = 0.20745549383370773
+save optimal model
+
+
+loss = 0.20723802823087442
+save optimal model
+
+
+loss = 0.2070943181929381
+save optimal model
+
+
+loss = 0.20700778261474942
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.227543690930242
+save optimal model
+
+
+loss = 1.0069226493006167
+save optimal model
+
+
+loss = 0.9294263901917831
+save optimal model
+
+
+loss = 0.9184120945308519
+save optimal model
+
+
+loss = 0.9127871912458668
+save optimal model
+
+
+loss = 0.9109699726104736
+save optimal model
+
+
+loss = 0.9109834251196488
+
+loss = 0.9103990197181702
+save optimal model
+
+
+loss = 0.9096451038899629
+save optimal model
+
+
+loss = 0.9068424649860548
+save optimal model
+
+
+loss = 0.9076607071835062
+
+loss = 0.9077057164648304
+
+loss = 0.9047366432521654
+save optimal model
+
+
+loss = 0.9042224184326504
+save optimal model
+
+
+loss = 0.9024836887484011
+save optimal model
+
+
+loss = 0.901342731455098
+save optimal model
+
+
+loss = 0.8977115594822428
+save optimal model
+
+
+loss = 0.897025668102762
+save optimal model
+
+
+loss = 0.8991661849229232
+
+loss = 0.8963431456814641
+save optimal model
+
+Start pretraining the annocluster model ... 
+
+loss = 0.377039201233698
+save optimal model
+
+
+loss = 0.22956625793291174
+save optimal model
+
+
+loss = 0.21898899907651154
+save optimal model
+
+
+loss = 0.21559708921805673
+save optimal model
+
+
+loss = 0.2137755142605823
+save optimal model
+
+
+loss = 0.21236824989318848
+save optimal model
+
+
+loss = 0.21143013562845148
+save optimal model
+
+
+loss = 0.21061029188011005
+save optimal model
+
+
+loss = 0.21020147010036136
+save optimal model
+
+
+loss = 0.20964169307895328
+save optimal model
+
+
+loss = 0.20926901568537173
+save optimal model
+
+
+loss = 0.2087515890598297
+save optimal model
+
+
+loss = 0.20854372174843497
+save optimal model
+
+
+loss = 0.20825800882733386
+save optimal model
+
+
+loss = 0.20785687539888464
+save optimal model
+
+
+loss = 0.20769202190896738
+save optimal model
+
+
+loss = 0.20743613916894663
+save optimal model
+
+
+loss = 0.20720435031082318
+save optimal model
+
+
+loss = 0.2070169455331305
+save optimal model
+
+
+loss = 0.2068610677252645
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.1428798825844475
+save optimal model
+
+
+loss = 0.9500191367190817
+save optimal model
+
+
+loss = 0.8961329952530239
+save optimal model
+
+
+loss = 0.8890048058136649
+save optimal model
+
+
+loss = 0.8865700934244238
+save optimal model
+
+
+loss = 0.8857058830883192
+save optimal model
+
+
+loss = 0.8862384505893873
+
+loss = 0.8834796832955402
+save optimal model
+
+
+loss = 0.8838834347932235
+
+loss = 0.8837204990179642
+
+loss = 0.8839514747909878
+
+loss = 0.8831650200097457
+save optimal model
+
+
+loss = 0.88393242203671
+
+loss = 0.8827853410140328
+save optimal model
+
+
+loss = 0.8824522339779398
+save optimal model
+
+
+loss = 0.8815736770629883
+save optimal model
+
+
+loss = 0.8825405136398647
+
+loss = 0.8821267019147458
+
+loss = 0.883544877819393
+
+loss = 0.8824336580608202
+Start pretraining the annocluster model ... 
+
+loss = 0.3708381737055986
+save optimal model
+
+
+loss = 0.22964005431403284
+save optimal model
+
+
+loss = 0.2200112018896186
+save optimal model
+
+
+loss = 0.21667676840139471
+save optimal model
+
+
+loss = 0.2148032583620237
+save optimal model
+
+
+loss = 0.2135563032782596
+save optimal model
+
+
+loss = 0.21241490348525668
+save optimal model
+
+
+loss = 0.21164736864359482
+save optimal model
+
+
+loss = 0.2110586315393448
+save optimal model
+
+
+loss = 0.2104074935550275
+save optimal model
+
+
+loss = 0.20998974727547687
+save optimal model
+
+
+loss = 0.20949004720086636
+save optimal model
+
+
+loss = 0.20915168718151425
+save optimal model
+
+
+loss = 0.20877173348613406
+save optimal model
+
+
+loss = 0.2084712450918944
+save optimal model
+
+
+loss = 0.20815380500710529
+save optimal model
+
+
+loss = 0.20791980559411255
+save optimal model
+
+
+loss = 0.2076953383891479
+save optimal model
+
+
+loss = 0.20750306352325107
+save optimal model
+
+
+loss = 0.20725897019324097
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.102143246194591
+save optimal model
+
+
+loss = 0.9793680310249329
+save optimal model
+
+
+loss = 0.9117445246033047
+save optimal model
+
+
+loss = 0.9029510565426039
+save optimal model
+
+
+loss = 0.8984083662862363
+save optimal model
+
+
+loss = 0.8946863672007686
+save optimal model
+
+
+loss = 0.8919457223104394
+save optimal model
+
+
+loss = 0.8924028951188793
+
+loss = 0.8906757209611975
+save optimal model
+
+
+loss = 0.8896859184555386
+save optimal model
+
+
+loss = 0.8915754867636639
+
+loss = 0.8913957709851472
+
+loss = 0.8894258089687513
+save optimal model
+
+
+loss = 0.8907545986382858
+
+loss = 0.8899104076883068
+
+loss = 0.890226644018422
+
+loss = 0.8896044829617376
+
+loss = 0.8900713868763136
+
+loss = 0.8897963943688766
+
+loss = 0.8887470053589862
+save optimal model
+
+Start pretraining the annocluster model ... 
+
+loss = 0.3637342692717262
+save optimal model
+
+
+loss = 0.22907543506311334
+save optimal model
+
+
+loss = 0.2193439207647158
+save optimal model
+
+
+loss = 0.21655537382416104
+save optimal model
+
+
+loss = 0.21494967781979105
+save optimal model
+
+
+loss = 0.21412311753501062
+save optimal model
+
+
+loss = 0.2132791228916334
+save optimal model
+
+
+loss = 0.21265893202760947
+save optimal model
+
+
+loss = 0.21218426979106406
+save optimal model
+
+
+loss = 0.2116224882395371
+save optimal model
+
+
+loss = 0.2112395465373993
+save optimal model
+
+
+loss = 0.21086158376672995
+save optimal model
+
+
+loss = 0.2104751461226007
+save optimal model
+
+
+loss = 0.21018572734749835
+save optimal model
+
+
+loss = 0.21005217407060706
+save optimal model
+
+
+loss = 0.20977620326954385
+save optimal model
+
+
+loss = 0.20933649332627005
+save optimal model
+
+
+loss = 0.20934708416461945
+
+loss = 0.20907755714395773
+save optimal model
+
+
+loss = 0.20883513080037158
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.2679278539574663
+save optimal model
+
+
+loss = 0.9801213922707931
+save optimal model
+
+
+loss = 0.9029726437900377
+save optimal model
+
+
+loss = 0.8887654542922974
+save optimal model
+
+
+loss = 0.8866050113802371
+save optimal model
+
+
+loss = 0.8864577438520349
+save optimal model
+
+
+loss = 0.8865954694540604
+
+loss = 0.8865079439204672
+
+loss = 0.8874556188998015
+
+loss = 0.8862733167150746
+save optimal model
+
+
+loss = 0.8861718981162362
+save optimal model
+
+
+loss = 0.888138032477835
+
+loss = 0.888333507206129
+
+loss = 0.8873891001162322
+
+loss = 0.8885695027268451
+
+loss = 0.8870513257773026
+
+loss = 0.8871944080228391
+
+loss = 0.8875129430190377
+
+loss = 0.887198893920235
+
+loss = 0.8879513999690181
+Start pretraining the annocluster model ... 
+
+loss = 0.36204947336860327
+save optimal model
+
+
+loss = 0.22924513661343118
+save optimal model
+
+
+loss = 0.22031432908514273
+save optimal model
+
+
+loss = 0.21744199874608414
+save optimal model
+
+
+loss = 0.21567287781964178
+save optimal model
+
+
+loss = 0.21452139447564664
+save optimal model
+
+
+loss = 0.21371630611627
+save optimal model
+
+
+loss = 0.2130801463904588
+save optimal model
+
+
+loss = 0.21249894020350082
+save optimal model
+
+
+loss = 0.21202559704365936
+save optimal model
+
+
+loss = 0.2115216728137887
+save optimal model
+
+
+loss = 0.21112644024517224
+save optimal model
+
+
+loss = 0.21088374697643777
+save optimal model
+
+
+loss = 0.21060313543547754
+save optimal model
+
+
+loss = 0.2103071400652761
+save optimal model
+
+
+loss = 0.21011755647866623
+save optimal model
+
+
+loss = 0.2099475517221119
+save optimal model
+
+
+loss = 0.20963290463323178
+save optimal model
+
+
+loss = 0.209453742141309
+save optimal model
+
+
+loss = 0.2091255712768306
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.2065647374028745
+save optimal model
+
+
+loss = 0.9777770068334497
+save optimal model
+
+
+loss = 0.8960880326188129
+save optimal model
+
+
+loss = 0.8884106304334558
+save optimal model
+
+
+loss = 0.8866559863090515
+save optimal model
+
+
+loss = 0.8862459970557172
+save optimal model
+
+
+loss = 0.8853985615398573
+save optimal model
+
+
+loss = 0.88757433321165
+
+loss = 0.8865468061488607
+
+loss = 0.8871904352436895
+
+loss = 0.8877391970675924
+
+loss = 0.8864943074143451
+
+loss = 0.8848646257234656
+save optimal model
+
+
+loss = 0.8864154141882191
+
+loss = 0.8860062334848486
+
+loss = 0.8846627551576366
+save optimal model
+
+
+loss = 0.8874662725821786
+
+loss = 0.8857531858527142
+
+loss = 0.8867833666179491
+
+loss = 0.8861467371816221
+Start pretraining the annocluster model ... 
+
+loss = 0.36087630624356476
+save optimal model
+
+
+loss = 0.229803371688594
+save optimal model
+
+
+loss = 0.21960415075654569
+save optimal model
+
+
+loss = 0.2165800287671711
+save optimal model
+
+
+loss = 0.21495637686356253
+save optimal model
+
+
+loss = 0.21384308778721353
+save optimal model
+
+
+loss = 0.2131952941417694
+save optimal model
+
+
+loss = 0.21265327023423236
+save optimal model
+
+
+loss = 0.2122069202039553
+save optimal model
+
+
+loss = 0.21170679253080618
+save optimal model
+
+
+loss = 0.21140526170315949
+save optimal model
+
+
+loss = 0.21100567216458527
+save optimal model
+
+
+loss = 0.21083392721155417
+save optimal model
+
+
+loss = 0.2105067165001579
+save optimal model
+
+
+loss = 0.21029351198154947
+save optimal model
+
+
+loss = 0.21006197773891946
+save optimal model
+
+
+loss = 0.20996016199174133
+save optimal model
+
+
+loss = 0.20960712692011957
+save optimal model
+
+
+loss = 0.20948850071948508
+save optimal model
+
+
+loss = 0.20934043241583783
+save optimal model
+
+Start pretraining the KLCLR model ... 
+
+loss = 2.1153876004011734
+save optimal model
+
+
+loss = 1.022697679374529
+save optimal model
+
+
+loss = 0.9066924349121426
+save optimal model
+
+
+loss = 0.8922748280608136
+save optimal model
+
+
+loss = 0.8896329947139906
+save optimal model
+
+
+loss = 0.8869387973909792
+save optimal model
+
+
+loss = 0.8858419164367344
+save optimal model
+
+
+loss = 0.886740329472915
+
+loss = 0.8877465802690258
+
+loss = 0.8873968590860781
+
+loss = 0.8872943054074827
+
+loss = 0.8868319392204285
+
+loss = 0.8868404030799866
+
+loss = 0.8871640277945477
+
+loss = 0.8855146454728168
+save optimal model
+
+
+loss = 0.8861485823341038
+
+loss = 0.8874629010324893
+
+loss = 0.8873007297515869
+
+loss = 0.8869966864585876
+
+loss = 0.8874729612599248
+End
