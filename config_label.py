@@ -9,7 +9,7 @@ import scanpy as sc
 import os
 import sys
 from scipy.sparse import csc_matrix
-
+import anndata as ad
 import scipy
 sys.path.append(r"../")
 from unifan.datasets1 import AnnDataset, ContrDataset
@@ -26,11 +26,11 @@ class Config(object):
 
 
         # Define the data path.
-        self.data_filepath1 = f"/home/lcy/code/epithelial_control.h5ad"
-        self.data_filepath2 = f"/home/lcy/code/epithelial_ipf.h5ad"
+        self.data_filepath1 = f"/home/ubuntu22/code/mcgill/epithelial_ipf.h5ad"
+        self.data_filepath2 = f"/home/ubuntu22/code/mcgill/epithelial_ipf_sim_add.h5ad"
 
         # Define the output path
-        self.output_path = "/home/lcy/code/example/output/new_celltype_version2/"
+        self.output_path = "/home/ubuntu22/code/mcgill/example/output/epithelial_sim/"
 
         self.gene_sets_path = "../gene_sets/"
 
@@ -55,7 +55,7 @@ class Config(object):
         self.weight_decay = 1e-5
         self.tau = 10
         self.z_dim = 128
-        self.batch_size = 4096
+        self.batch_size = 512
         self.num_iteration = 40
         self.num_epochs_z = 20
 
@@ -99,19 +99,41 @@ class Config(object):
         data2 = sc.read(self.data_filepath2, dtype='float64', backed="r")
         self.adata1 = sc.AnnData(X=scipy.sparse.csr_matrix(csc_matrix(data1.X[:])),obs = data1.obs, var = data1.var)
         self.adata2 = sc.AnnData(X=scipy.sparse.csr_matrix(csc_matrix(data2.X[:])),obs = data2.obs, var = data2.var)
-        sc.pp.normalize_total(self.adata1, inplace=True)
-        sc.pp.log1p(self.adata1)
-        sc.pp.highly_variable_genes(self.adata1, flavor="seurat", n_top_genes=2000, inplace=True)
-        sc.pp.normalize_total(self.adata2, inplace=True)
-        sc.pp.log1p(self.adata2)
-        sc.pp.highly_variable_genes(self.adata2, flavor="seurat", n_top_genes=2000, inplace=True)
-        self.x1=self.adata1.X.toarray()
-        self.x2=self.adata2.X.toarray()
-        self.x = np.vstack((self.x1, self.x2))
+        self.adata = ad.concat([self.adata1, self.adata2])
+        sc.pp.filter_cells(self.adata, min_genes=200)
+        sc.pp.filter_genes(self.adata, min_cells=3)
+
+        # Normalize gene expression values and perform log-transformation
+        sc.pp.normalize_total(self.adata, target_sum=1e4)
+        sc.pp.log1p(self.adata)
+
+        # Identify highly-variable genes (HVGs)
+        sc.pp.highly_variable_genes(self.adata, min_mean=0, max_mean=1000, min_disp=0.01)
+
+        self.x = self.adata.X.toarray()
+
+        #sc.pp.scale(self.adata1, max_value=10)
+
+        # sc.pp.normalize_total(self.adata1, inplace=True)
+        # sc.pp.log1p(self.adata1)
+        # sc.pp.highly_variable_genes(self.adata1, flavor="seurat", n_top_genes=2000, inplace=True)
+        # sc.pp.normalize_total(self.adata2, inplace=True)
+        # sc.pp.log1p(self.adata2)
+        # sc.pp.highly_variable_genes(self.adata2, flavor="seurat", n_top_genes=2000, inplace=True)
+
+        # self.x1=self.adata1.X
+        # self.x2=self.adata2.X
+        # self.x1=self.adata1.X.toarray()
+        # self.x2=self.adata2.X.toarray()
+
+
+        # self.x = np.vstack((self.x1, self.x2))
+
+
         self.N_project1 = self.adata1.n_obs 
         self.N_project2 = self.adata2.n_obs 
         self.N = self.N_project1 + self.N_project2
-        self.G = self.adata1.n_vars
+        self.G = self.adata.n_vars
 
         self.expression_integrated = AnnDataset(self.x)
         # print(expression_integrated)

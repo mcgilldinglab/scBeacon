@@ -85,16 +85,16 @@ class Train(Config):
         sc.pp.neighbors(adata, n_pcs=self.z_dim,  use_rep='X_unifan', random_state=self.random_seed)
 
         best_ari = 0
-        best_resolution = 0
-        for resolution in range (1,200):
-            resolution = resolution / 1000
-            sc.tl.leiden(adata, resolution=resolution)
-            clusters_pre = adata.obs['leiden'].astype('int').values
-            ari_smaller = adjusted_rand_score(clusters_true,
-                                            clusters_pre)
-            if ari_smaller>best_ari:
-                best_ari = ari_smaller
-                best_resolution = resolution
+        best_resolution = 0.6
+        # for resolution in range (1,200):
+        #     resolution = resolution / 1000
+        #     sc.tl.leiden(adata, resolution=resolution)
+        #     clusters_pre = adata.obs['leiden'].astype('int').values
+        #     ari_smaller = adjusted_rand_score(clusters_true,
+        #                                     clusters_pre)
+        #     if ari_smaller>best_ari:
+        #         best_ari = ari_smaller
+        #         best_resolution = resolution
 
 
       
@@ -118,21 +118,16 @@ class Train(Config):
         return clusters_pre, centroids_torch
 
     def run(self):
-        clusters_true_project1 = config.adata1.obs['Manuscript_Identity']
+        clusters_true_project = self.adata.obs['Manuscript_Identity'].astype('category')
         sex_mapping = {}
         k = 0
-        for i in np.unique(clusters_true_project1):
+        for i in np.unique(clusters_true_project):
             sex_mapping[i] = k
             k = k + 1
-        clusters_true1 = clusters_true_project1
+        clusters_true = clusters_true_project
 
-        clusters_true_project2 = config.adata2.obs['Manuscript_Identity']
-        sex_mapping = {}
-        k = 0
-        for i in np.unique(clusters_true_project2):
-            sex_mapping[i] = k
-            k = k + 1
-        clusters_true2 = clusters_true_project2
+       
+
         model_autoencoder = autoencoder(input_dim=self.G, z_dim=self.z_dim, 
                                         encoder_dim=self.z_encoder_dim, emission_dim=self.z_decoder_dim,
                                         num_layers_encoder=self.z_encoder_layers, num_layers_decoder=self.z_decoder_layers,
@@ -171,11 +166,15 @@ class Train(Config):
         z_init1 = z_init[:self.N_project1]
         z_init2 = z_init[self.N_project1:]
 
-        clusters_pre1, centroids_torch_project1 = self.leiden_cluster(z_init1, clusters_true1)
-        clusters_pre2, centroids_torch_project2 = self.leiden_cluster(z_init2, clusters_true2)
+        clusters_pre, centroids_torch_project = self.leiden_cluster(z_init, clusters_true)
+        clusters_pre1 = clusters_pre[:self.N_project1]
+        clusters_pre2 = clusters_pre[self.N_project1:]
+    
+        centroids_torch_project1 = centroids_torch_project
+        centroids_torch_project2 = centroids_torch_project
 
         # ------ Define the Contrastive dataset ------
-        subjects = np.hstack((np.zeros(self.N_project1), np.ones(self.N_project1)))
+        subjects = np.hstack((np.zeros(self.N_project1), np.ones(self.N_project2)))
         clusters_pre = np.hstack((clusters_pre1, clusters_pre2))
         Contr_expression = ContrDataset(self.x, clusters_pre, subjects)   
 
@@ -298,8 +297,11 @@ class Train(Config):
             z_init1 = z_init[:self.N_project1]
             z_init2 = z_init[self.N_project1:]
 
-            clusters_pre1, centroids_torch_project1 = self.leiden_cluster(z_init1, clusters_true1)
-            clusters_pre2, centroids_torch_project2 = self.leiden_cluster(z_init2, clusters_true2)
+            clusters_pre, centroids_torch_project = self.leiden_cluster(z_init, clusters_true)
+            clusters_pre1 = clusters_pre[:self.N_project1]
+            clusters_pre2 = clusters_pre[self.N_project1:]
+            centroids_torch_project1 = centroids_torch_project
+            centroids_torch_project2 = centroids_torch_project
 
 
             # pair_1 = self.get_kl_div_pair(centroids_torch_project1, centroids_torch_project2)
