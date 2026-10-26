@@ -1,0 +1,2 @@
+collection	deg_test	unit_version	unit_id	unit_type	input_gene_count	mapped_gene_count	n_annotations	n_significant_fdrbh	top_category	top_term	top_qvalue_fdrbh	status	detail	unit_output_dir
+wilcoxon_version_b_ipf_to_control_directed_pairs	wilcoxon	version_b_ipf_to_control_directed_pairs	B_pair_04	kl_matched_pair	58	56	905	905	ToppCell	IPF-Epithelial-Aberrant_Basaloid|Epithelial / Disease state, Lineage and Cell class	4.027855736867624e-21	completed		03_reproduction/01_ipf/04_archived_downstream/02_toppgene/B_pair_04

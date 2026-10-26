@@ -1,0 +1,21 @@
+{
+  "python": "3.11.5",
+  "packages": {
+    "numpy": "1.26.4+computecanada",
+    "pandas": "2.2.3+computecanada",
+    "scipy": "1.17.0+computecanada",
+    "matplotlib": "3.10.8+computecanada",
+    "anndata": "0.10.8",
+    "h5py": "3.16.0+computecanada",
+    "scanpy": "1.10.3+computecanada",
+    "torch": "2.11.0+computecanada",
+    "scikit-learn": "1.5.2+computecanada",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0+computecanada",
+    "leidenalg": "0.11.0+computecanada",
+    "igraph": "1.0.0",
+    "umap-learn": "0.5.7+computecanada"
+  },
+  "purpose": "cached notebook execution and interface/input validation; not the certified historical training environment"
+}

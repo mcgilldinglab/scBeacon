@@ -1,0 +1,27 @@
+cluster_display	condition	dominant_cell_type	paired_color_anchor	color_anchor_override_hex	color_hex
+C0	Control	ATII	C0		#4e79a7
+C1	Control	ATII	C1		#f28e2b
+C2	Control	ATII	C2		#59a14f
+C3	Control	Ciliated	C3		#e15759
+C4	Control	ATI	C4		#76b7b2
+C5	Control	Ciliated	C5		#b07aa1
+C6	Control	ATII	C6		#edc948
+C7	Control	ATII	C7	#7E57C2	#7e57c2
+C8	Control	Club	C8	#8DAA3B	#8daa3b
+C9	Control	Basal	C9		#bab0ac
+C10	Control	Mesothelial	C10	#3B4992	#3b4992
+C11	Control	PNEC	C11	#C51B7D	#c51b7d
+D0	IPF	Ciliated	C3		#e15759
+D1	IPF	Ciliated	C3		#e87c7e
+D2	IPF	Ciliated	C3		#ee9e9f
+D3	IPF	Club	C6		#edc948
+D4	IPF	Basal	C6		#f1d570
+D5	IPF	Goblet	C8	#8DAA3B	#8daa3b
+D6	IPF	Goblet	C8	#8DAA3B	#a6bd66
+D7	IPF	Basal	C9		#bab0ac
+D8	IPF	Ciliated	C3		#bb5859
+D9	IPF	Club	C0		#4e79a7
+D10	IPF	Aberrant_Basaloid	C7	#7E57C2	#7e57c2
+D11	IPF	Mesothelial	C10	#3B4992	#3b4992
+D12	IPF	ATI	C4		#76b7b2
+D13	IPF	Ionocyte	C11	#C51B7D	#c51b7d

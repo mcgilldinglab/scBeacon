@@ -1,0 +1,11 @@
+cell_type	total_n_cells	anchor_cluster_display	anchor_condition	anchor_n_celltype_cells_in_cluster	anchor_cluster_n_cells	anchor_celltype_fraction_in_cluster	anchor_is_cluster_dominant_celltype	anchor_cluster_color_hex	color_override_hex	celltype_color_hex
+Ciliated	8608	C3	Control	621	623	0.9967897271268058	True	#e15759		#e15759
+ATII	3151	C0	Control	794	815	0.9742331288343559	True	#4e79a7	#EDC948	#edc948
+Club	2081	C8	Control	121	274	0.4416058394160584	True	#8daa3b		#8daa3b
+Basal	1586	C9	Control	110	122	0.9016393442622951	True	#bab0ac		#bab0ac
+Goblet	1145	D5	IPF	543	742	0.7318059299191375	True	#8daa3b		#607428
+ATI	678	C4	Control	475	483	0.9834368530020704	True	#76b7b2		#76b7b2
+Aberrant_Basaloid	448	D10	IPF	407	500	0.814	True	#7e57c2		#7e57c2
+Mesothelial	279	C10	Control	46	46	1.0	True	#3b4992		#3b4992
+PNEC	29	C11	Control	17	19	0.8947368421052632	True	#c51b7d		#c51b7d
+Ionocyte	25	D13	IPF	19	32	0.59375	True	#c51b7d		#861255

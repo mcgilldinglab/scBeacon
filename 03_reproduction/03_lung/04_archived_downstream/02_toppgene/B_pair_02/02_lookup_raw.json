@@ -1,0 +1,742 @@
+{
+  "Genes": [
+    {
+      "OfficialSymbol": "CTSL",
+      "Entrez": 1514,
+      "Submitted": "CTSL",
+      "Description": "cathepsin L"
+    },
+    {
+      "OfficialSymbol": "LGMN",
+      "Entrez": 5641,
+      "Submitted": "LGMN",
+      "Description": "legumain"
+    },
+    {
+      "OfficialSymbol": "CTSZ",
+      "Entrez": 1522,
+      "Submitted": "CTSZ",
+      "Description": "cathepsin Z"
+    },
+    {
+      "OfficialSymbol": "MARCKS",
+      "Entrez": 4082,
+      "Submitted": "MARCKS",
+      "Description": "myristoylated alanine rich protein kinase C substrate"
+    },
+    {
+      "OfficialSymbol": "PLTP",
+      "Entrez": 5360,
+      "Submitted": "PLTP",
+      "Description": "phospholipid transfer protein"
+    },
+    {
+      "OfficialSymbol": "GPNMB",
+      "Entrez": 10457,
+      "Submitted": "GPNMB",
+      "Description": "glycoprotein nmb"
+    },
+    {
+      "OfficialSymbol": "PLA2G7",
+      "Entrez": 7941,
+      "Submitted": "PLA2G7",
+      "Description": "phospholipase A2 group VII"
+    },
+    {
+      "OfficialSymbol": "MS4A6A",
+      "Entrez": 64231,
+      "Submitted": "MS4A6A",
+      "Description": "membrane spanning 4-domains A6A"
+    },
+    {
+      "OfficialSymbol": "TMEM176B",
+      "Entrez": 28959,
+      "Submitted": "TMEM176B",
+      "Description": "transmembrane protein 176B"
+    },
+    {
+      "OfficialSymbol": "PMP22",
+      "Entrez": 5376,
+      "Submitted": "PMP22",
+      "Description": "peripheral myelin protein 22"
+    },
+    {
+      "OfficialSymbol": "CD14",
+      "Entrez": 929,
+      "Submitted": "CD14",
+      "Description": "CD14 molecule"
+    },
+    {
+      "OfficialSymbol": "A2M",
+      "Entrez": 2,
+      "Submitted": "A2M",
+      "Description": "alpha-2-macroglobulin"
+    },
+    {
+      "OfficialSymbol": "FOLR2",
+      "Entrez": 2350,
+      "Submitted": "FOLR2",
+      "Description": "folate receptor beta"
+    },
+    {
+      "OfficialSymbol": "HMOX1",
+      "Entrez": 3162,
+      "Submitted": "HMOX1",
+      "Description": "heme oxygenase 1"
+    },
+    {
+      "OfficialSymbol": "CCL18",
+      "Entrez": 6362,
+      "Submitted": "CCL18",
+      "Description": "C-C motif chemokine ligand 18"
+    },
+    {
+      "OfficialSymbol": "IGKC",
+      "Entrez": 3514,
+      "Submitted": "IGKC",
+      "Description": "immunoglobulin kappa constant"
+    },
+    {
+      "OfficialSymbol": "IER3",
+      "Entrez": 8870,
+      "Submitted": "IER3",
+      "Description": "immediate early response 3"
+    },
+    {
+      "OfficialSymbol": "SELENOP",
+      "Entrez": 6414,
+      "Submitted": "SEPP1",
+      "Description": "selenoprotein P"
+    },
+    {
+      "OfficialSymbol": "CD36",
+      "Entrez": 948,
+      "Submitted": "CD36",
+      "Description": "CD36 molecule (CD36 blood group)"
+    },
+    {
+      "OfficialSymbol": "MAFB",
+      "Entrez": 9935,
+      "Submitted": "MAFB",
+      "Description": "MAF bZIP transcription factor B"
+    },
+    {
+      "OfficialSymbol": "CFD",
+      "Entrez": 1675,
+      "Submitted": "CFD",
+      "Description": "complement factor D"
+    },
+    {
+      "OfficialSymbol": "SLC40A1",
+      "Entrez": 30061,
+      "Submitted": "SLC40A1",
+      "Description": "solute carrier family 40 member 1"
+    },
+    {
+      "OfficialSymbol": "GPR183",
+      "Entrez": 1880,
+      "Submitted": "GPR183",
+      "Description": "G protein-coupled receptor 183"
+    },
+    {
+      "OfficialSymbol": "CXCL2",
+      "Entrez": 2920,
+      "Submitted": "CXCL2",
+      "Description": "C-X-C motif chemokine ligand 2"
+    },
+    {
+      "OfficialSymbol": "ENPP2",
+      "Entrez": 5168,
+      "Submitted": "ENPP2",
+      "Description": "ectonucleotide pyrophosphatase/phosphodiesterase 2"
+    },
+    {
+      "OfficialSymbol": "CCL3",
+      "Entrez": 6348,
+      "Submitted": "CCL3",
+      "Description": "C-C motif chemokine ligand 3"
+    },
+    {
+      "OfficialSymbol": "CCL13",
+      "Entrez": 6357,
+      "Submitted": "CCL13",
+      "Description": "C-C motif chemokine ligand 13"
+    },
+    {
+      "OfficialSymbol": "RARRES1",
+      "Entrez": 5918,
+      "Submitted": "RARRES1",
+      "Description": "retinoic acid receptor responder 1"
+    },
+    {
+      "OfficialSymbol": "CCL2",
+      "Entrez": 6347,
+      "Submitted": "CCL2",
+      "Description": "C-C motif chemokine ligand 2"
+    },
+    {
+      "OfficialSymbol": "SDS",
+      "Entrez": 10993,
+      "Submitted": "SDS",
+      "Description": "serine dehydratase"
+    },
+    {
+      "OfficialSymbol": "STAB1",
+      "Entrez": 23166,
+      "Submitted": "STAB1",
+      "Description": "stabilin 1"
+    },
+    {
+      "OfficialSymbol": "FCGR2B",
+      "Entrez": 2213,
+      "Submitted": "FCGR2B",
+      "Description": "Fc gamma receptor IIb"
+    },
+    {
+      "OfficialSymbol": "SOCS3",
+      "Entrez": 9021,
+      "Submitted": "SOCS3",
+      "Description": "suppressor of cytokine signaling 3"
+    },
+    {
+      "OfficialSymbol": "HS3ST2",
+      "Entrez": 9956,
+      "Submitted": "HS3ST2",
+      "Description": "heparan sulfate-glucosamine 3-sulfotransferase 2"
+    },
+    {
+      "OfficialSymbol": "EGR1",
+      "Entrez": 1958,
+      "Submitted": "EGR1",
+      "Description": "early growth response 1"
+    },
+    {
+      "OfficialSymbol": "IL4I1",
+      "Entrez": 259307,
+      "Submitted": "IL4I1",
+      "Description": "interleukin 4 induced 1"
+    },
+    {
+      "OfficialSymbol": "RBP1",
+      "Entrez": 5947,
+      "Submitted": "RBP1",
+      "Description": "retinol binding protein 1"
+    },
+    {
+      "OfficialSymbol": "SPP1",
+      "Entrez": 6696,
+      "Submitted": "SPP1",
+      "Description": "secreted phosphoprotein 1"
+    },
+    {
+      "OfficialSymbol": "PLAU",
+      "Entrez": 5328,
+      "Submitted": "PLAU",
+      "Description": "plasminogen activator, urokinase"
+    },
+    {
+      "OfficialSymbol": "CCL4",
+      "Entrez": 6351,
+      "Submitted": "CCL4",
+      "Description": "C-C motif chemokine ligand 4"
+    },
+    {
+      "OfficialSymbol": "RGS2",
+      "Entrez": 5997,
+      "Submitted": "RGS2",
+      "Description": "regulator of G protein signaling 2"
+    },
+    {
+      "OfficialSymbol": "GADD45G",
+      "Entrez": 10912,
+      "Submitted": "GADD45G",
+      "Description": "growth arrest and DNA damage inducible gamma"
+    },
+    {
+      "OfficialSymbol": "HAMP",
+      "Entrez": 57817,
+      "Submitted": "HAMP",
+      "Description": "hepcidin antimicrobial peptide"
+    },
+    {
+      "OfficialSymbol": "F13A1",
+      "Entrez": 2162,
+      "Submitted": "F13A1",
+      "Description": "coagulation factor XIII A chain"
+    },
+    {
+      "OfficialSymbol": "CCL3L3",
+      "Entrez": 414062,
+      "Submitted": "CCL3L3",
+      "Description": "C-C motif chemokine ligand 3 like 3"
+    },
+    {
+      "OfficialSymbol": "GAS6",
+      "Entrez": 2621,
+      "Submitted": "GAS6",
+      "Description": "growth arrest specific 6"
+    },
+    {
+      "OfficialSymbol": "IL2RA",
+      "Entrez": 3559,
+      "Submitted": "IL2RA",
+      "Description": "interleukin 2 receptor subunit alpha"
+    },
+    {
+      "OfficialSymbol": "SERPINF1",
+      "Entrez": 5176,
+      "Submitted": "SERPINF1",
+      "Description": "serpin family F member 1"
+    },
+    {
+      "OfficialSymbol": "BATF",
+      "Entrez": 10538,
+      "Submitted": "BATF",
+      "Description": "basic leucine zipper ATF-like transcription factor"
+    },
+    {
+      "OfficialSymbol": "RNASE1",
+      "Entrez": 6035,
+      "Submitted": "RNASE1",
+      "Description": "ribonuclease A family member 1, pancreatic"
+    },
+    {
+      "OfficialSymbol": "IL7R",
+      "Entrez": 3575,
+      "Submitted": "IL7R",
+      "Description": "interleukin 7 receptor"
+    },
+    {
+      "OfficialSymbol": "IFI27",
+      "Entrez": 3429,
+      "Submitted": "IFI27",
+      "Description": "interferon alpha inducible protein 27"
+    },
+    {
+      "OfficialSymbol": "CCL4L2",
+      "Entrez": 9560,
+      "Submitted": "CCL4L2",
+      "Description": "C-C motif chemokine ligand 4 like 2"
+    },
+    {
+      "OfficialSymbol": "IGLC2",
+      "Entrez": 3538,
+      "Submitted": "IGLC2",
+      "Description": "immunoglobulin lambda constant 2"
+    },
+    {
+      "OfficialSymbol": "ITLN1",
+      "Entrez": 55600,
+      "Submitted": "ITLN1",
+      "Description": "intelectin 1"
+    },
+    {
+      "OfficialSymbol": "CYP1B1",
+      "Entrez": 1545,
+      "Submitted": "CYP1B1",
+      "Description": "cytochrome P450 family 1 subfamily B member 1"
+    },
+    {
+      "OfficialSymbol": "PLPP3",
+      "Entrez": 8613,
+      "Submitted": "PLPP3",
+      "Description": "phospholipid phosphatase 3"
+    },
+    {
+      "OfficialSymbol": "ADM",
+      "Entrez": 133,
+      "Submitted": "ADM",
+      "Description": "adrenomedullin"
+    },
+    {
+      "OfficialSymbol": "IGFBP7",
+      "Entrez": 3490,
+      "Submitted": "IGFBP7",
+      "Description": "insulin like growth factor binding protein 7"
+    },
+    {
+      "OfficialSymbol": "CTSK",
+      "Entrez": 1513,
+      "Submitted": "CTSK",
+      "Description": "cathepsin K"
+    },
+    {
+      "OfficialSymbol": "MEF2C",
+      "Entrez": 4208,
+      "Submitted": "MEF2C",
+      "Description": "myocyte enhancer factor 2C"
+    },
+    {
+      "OfficialSymbol": "IGHG3",
+      "Entrez": 3502,
+      "Submitted": "IGHG3",
+      "Description": "immunoglobulin heavy constant gamma 3 (G3m marker)"
+    },
+    {
+      "OfficialSymbol": "IL10",
+      "Entrez": 3586,
+      "Submitted": "IL10",
+      "Description": "interleukin 10"
+    },
+    {
+      "OfficialSymbol": "G0S2",
+      "Entrez": 50486,
+      "Submitted": "G0S2",
+      "Description": "G0/G1 switch 2"
+    },
+    {
+      "OfficialSymbol": "CLEC10A",
+      "Entrez": 10462,
+      "Submitted": "CLEC10A",
+      "Description": "C-type lectin domain containing 10A"
+    },
+    {
+      "OfficialSymbol": "IGFBP4",
+      "Entrez": 3487,
+      "Submitted": "IGFBP4",
+      "Description": "insulin like growth factor binding protein 4"
+    },
+    {
+      "OfficialSymbol": "ADAMDEC1",
+      "Entrez": 27299,
+      "Submitted": "ADAMDEC1",
+      "Description": "ADAM like decysin 1"
+    },
+    {
+      "OfficialSymbol": "TCF4",
+      "Entrez": 6925,
+      "Submitted": "TCF4",
+      "Description": "transcription factor 4"
+    },
+    {
+      "OfficialSymbol": "IGHA1",
+      "Entrez": 3493,
+      "Submitted": "IGHA1",
+      "Description": "immunoglobulin heavy constant alpha 1"
+    },
+    {
+      "OfficialSymbol": "OSM",
+      "Entrez": 5008,
+      "Submitted": "OSM",
+      "Description": "oncostatin M"
+    },
+    {
+      "OfficialSymbol": "AOAH",
+      "Entrez": 313,
+      "Submitted": "AOAH",
+      "Description": "acyloxyacyl hydrolase"
+    },
+    {
+      "OfficialSymbol": "LPCAT1",
+      "Entrez": 79888,
+      "Submitted": "LPCAT1",
+      "Description": "lysophosphatidylcholine acyltransferase 1"
+    },
+    {
+      "OfficialSymbol": "SLC39A8",
+      "Entrez": 64116,
+      "Submitted": "SLC39A8",
+      "Description": "solute carrier family 39 member 8"
+    },
+    {
+      "OfficialSymbol": "CHIT1",
+      "Entrez": 1118,
+      "Submitted": "CHIT1",
+      "Description": "chitinase 1"
+    },
+    {
+      "OfficialSymbol": "MUC1",
+      "Entrez": 4582,
+      "Submitted": "MUC1",
+      "Description": "mucin 1, cell surface associated"
+    },
+    {
+      "OfficialSymbol": "HES1",
+      "Entrez": 3280,
+      "Submitted": "HES1",
+      "Description": "hes family bHLH transcription factor 1"
+    },
+    {
+      "OfficialSymbol": "CCL20",
+      "Entrez": 6364,
+      "Submitted": "CCL20",
+      "Description": "C-C motif chemokine ligand 20"
+    },
+    {
+      "OfficialSymbol": "CXCL9",
+      "Entrez": 4283,
+      "Submitted": "CXCL9",
+      "Description": "C-X-C motif chemokine ligand 9"
+    },
+    {
+      "OfficialSymbol": "IL6",
+      "Entrez": 3569,
+      "Submitted": "IL6",
+      "Description": "interleukin 6"
+    },
+    {
+      "OfficialSymbol": "BIRC3",
+      "Entrez": 330,
+      "Submitted": "BIRC3",
+      "Description": "baculoviral IAP repeat containing 3"
+    },
+    {
+      "OfficialSymbol": "MMP2",
+      "Entrez": 4313,
+      "Submitted": "MMP2",
+      "Description": "matrix metallopeptidase 2"
+    },
+    {
+      "OfficialSymbol": "CD22",
+      "Entrez": 933,
+      "Submitted": "CD22",
+      "Description": "CD22 molecule"
+    },
+    {
+      "OfficialSymbol": "CCL8",
+      "Entrez": 6355,
+      "Submitted": "CCL8",
+      "Description": "C-C motif chemokine ligand 8"
+    },
+    {
+      "OfficialSymbol": "MT1X",
+      "Entrez": 4501,
+      "Submitted": "MT1X",
+      "Description": "metallothionein 1X"
+    },
+    {
+      "OfficialSymbol": "IGHG4",
+      "Entrez": 3503,
+      "Submitted": "IGHG4",
+      "Description": "immunoglobulin heavy constant gamma 4 (G4m marker)"
+    },
+    {
+      "OfficialSymbol": "VEGFA",
+      "Entrez": 7422,
+      "Submitted": "VEGFA",
+      "Description": "vascular endothelial growth factor A"
+    },
+    {
+      "OfficialSymbol": "CXCL10",
+      "Entrez": 3627,
+      "Submitted": "CXCL10",
+      "Description": "C-X-C motif chemokine ligand 10"
+    },
+    {
+      "OfficialSymbol": "TSPAN13",
+      "Entrez": 27075,
+      "Submitted": "TSPAN13",
+      "Description": "tetraspanin 13"
+    },
+    {
+      "OfficialSymbol": "HTRA1",
+      "Entrez": 5654,
+      "Submitted": "HTRA1",
+      "Description": "HtrA serine peptidase 1"
+    },
+    {
+      "OfficialSymbol": "GBP5",
+      "Entrez": 115362,
+      "Submitted": "GBP5",
+      "Description": "guanylate binding protein 5"
+    },
+    {
+      "OfficialSymbol": "LXN",
+      "Entrez": 56925,
+      "Submitted": "LXN",
+      "Description": "latexin"
+    },
+    {
+      "OfficialSymbol": "PTGER2",
+      "Entrez": 5732,
+      "Submitted": "PTGER2",
+      "Description": "prostaglandin E receptor 2"
+    },
+    {
+      "OfficialSymbol": "ANKRD29",
+      "Entrez": 147463,
+      "Submitted": "ANKRD29",
+      "Description": "ankyrin repeat domain 29"
+    },
+    {
+      "OfficialSymbol": "CST6",
+      "Entrez": 1474,
+      "Submitted": "CST6",
+      "Description": "cystatin E/M"
+    },
+    {
+      "OfficialSymbol": "KRT19",
+      "Entrez": 3880,
+      "Submitted": "KRT19",
+      "Description": "keratin 19"
+    },
+    {
+      "OfficialSymbol": "IGHM",
+      "Entrez": 3507,
+      "Submitted": "IGHM",
+      "Description": "immunoglobulin heavy constant mu"
+    },
+    {
+      "OfficialSymbol": "C1S",
+      "Entrez": 716,
+      "Submitted": "C1S",
+      "Description": "complement C1s"
+    },
+    {
+      "OfficialSymbol": "CXCL1",
+      "Entrez": 2919,
+      "Submitted": "CXCL1",
+      "Description": "C-X-C motif chemokine ligand 1"
+    },
+    {
+      "OfficialSymbol": "CHI3L1",
+      "Entrez": 1116,
+      "Submitted": "CHI3L1",
+      "Description": "chitinase 3 like 1"
+    },
+    {
+      "OfficialSymbol": "IGHG1",
+      "Entrez": 3500,
+      "Submitted": "IGHG1",
+      "Description": "immunoglobulin heavy constant gamma 1 (G1m marker)"
+    },
+    {
+      "OfficialSymbol": "IGHA2",
+      "Entrez": 3494,
+      "Submitted": "IGHA2",
+      "Description": "immunoglobulin heavy constant alpha 2 (A2m marker)"
+    },
+    {
+      "OfficialSymbol": "PDE7A",
+      "Entrez": 5150,
+      "Submitted": "PDE7A",
+      "Description": "phosphodiesterase 7A"
+    },
+    {
+      "OfficialSymbol": "S100A2",
+      "Entrez": 6273,
+      "Submitted": "S100A2",
+      "Description": "S100 calcium binding protein A2"
+    },
+    {
+      "OfficialSymbol": "DENND3",
+      "Entrez": 22898,
+      "Submitted": "DENND3",
+      "Description": "DENN domain containing 3"
+    },
+    {
+      "OfficialSymbol": "MIR155HG",
+      "Entrez": 114614,
+      "Submitted": "MIR155HG",
+      "Description": "MIR155 host gene"
+    },
+    {
+      "OfficialSymbol": "C3",
+      "Entrez": 718,
+      "Submitted": "C3",
+      "Description": "complement C3"
+    },
+    {
+      "OfficialSymbol": "ADAM28",
+      "Entrez": 10863,
+      "Submitted": "ADAM28",
+      "Description": "ADAM metallopeptidase domain 28"
+    },
+    {
+      "OfficialSymbol": "CD93",
+      "Entrez": 22918,
+      "Submitted": "CD93",
+      "Description": "CD93 molecule"
+    },
+    {
+      "OfficialSymbol": "POU2F2",
+      "Entrez": 5452,
+      "Submitted": "POU2F2",
+      "Description": "POU class 2 homeobox 2"
+    },
+    {
+      "OfficialSymbol": "IGF1",
+      "Entrez": 3479,
+      "Submitted": "IGF1",
+      "Description": "insulin like growth factor 1"
+    },
+    {
+      "OfficialSymbol": "TFPI",
+      "Entrez": 7035,
+      "Submitted": "TFPI",
+      "Description": "tissue factor pathway inhibitor"
+    },
+    {
+      "OfficialSymbol": "SLAMF9",
+      "Entrez": 89886,
+      "Submitted": "SLAMF9",
+      "Description": "SLAM family member 9"
+    },
+    {
+      "OfficialSymbol": "LTC4S",
+      "Entrez": 4056,
+      "Submitted": "LTC4S",
+      "Description": "leukotriene C4 synthase"
+    },
+    {
+      "OfficialSymbol": "MMP9",
+      "Entrez": 4318,
+      "Submitted": "MMP9",
+      "Description": "matrix metallopeptidase 9"
+    },
+    {
+      "OfficialSymbol": "MFAP5",
+      "Entrez": 8076,
+      "Submitted": "MFAP5",
+      "Description": "microfibril associated protein 5"
+    },
+    {
+      "OfficialSymbol": "EDNRB",
+      "Entrez": 1910,
+      "Submitted": "EDNRB",
+      "Description": "endothelin receptor type B"
+    },
+    {
+      "OfficialSymbol": "CH25H",
+      "Entrez": 9023,
+      "Submitted": "CH25H",
+      "Description": "cholesterol 25-hydroxylase"
+    },
+    {
+      "OfficialSymbol": "SELL",
+      "Entrez": 6402,
+      "Submitted": "SELL",
+      "Description": "selectin L"
+    },
+    {
+      "OfficialSymbol": "TM4SF1",
+      "Entrez": 4071,
+      "Submitted": "TM4SF1",
+      "Description": "transmembrane 4 L six family member 1"
+    },
+    {
+      "OfficialSymbol": "IRAG2",
+      "Entrez": 4033,
+      "Submitted": "LRMP",
+      "Description": "inositol 1,4,5-triphosphate receptor associated 2"
+    },
+    {
+      "OfficialSymbol": "IGLC3",
+      "Entrez": 3539,
+      "Submitted": "IGLC3",
+      "Description": "immunoglobulin lambda constant 3 (Kern-Oz+ marker)"
+    },
+    {
+      "OfficialSymbol": "GIMAP8",
+      "Entrez": 155038,
+      "Submitted": "GIMAP8",
+      "Description": "GTPase, IMAP family member 8"
+    },
+    {
+      "OfficialSymbol": "S100B",
+      "Entrez": 6285,
+      "Submitted": "S100B",
+      "Description": "S100 calcium binding protein B"
+    }
+  ]
+}

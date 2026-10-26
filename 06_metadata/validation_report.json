@@ -1,0 +1,182 @@
+{
+  "timestamp_utc": "2026-10-21T14:42:45.149994+00:00",
+  "training_executed": false,
+  "deg_recomputed": false,
+  "live_api_called": false,
+  "python_files_parsed": 28,
+  "unit_tests": {
+    "run": 9,
+    "failures": 0,
+    "errors": 0
+  },
+  "inputs": {
+    "ipf": {
+      "condition1_cells": 4807,
+      "condition2_cells": 13223,
+      "n_genes": 2000,
+      "embedding_shape": [
+        18030,
+        128
+      ],
+      "ordered_cell_ids_verified": true
+    },
+    "covid": {
+      "condition1_cells": 30665,
+      "condition2_cells": 25820,
+      "n_genes": 2000,
+      "embedding_shape": [
+        56485,
+        128
+      ],
+      "ordered_cell_ids_verified": true
+    },
+    "lung": {
+      "condition1_cells": 42995,
+      "condition2_cells": 45149,
+      "n_genes": 2000,
+      "embedding_shape": [
+        88144,
+        128
+      ],
+      "ordered_cell_ids_verified": true
+    }
+  },
+  "cli": [
+    {
+      "dataset": "ipf",
+      "command": "inspect",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "ipf",
+      "command": "plan",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "ipf",
+      "command": "train",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "covid",
+      "command": "inspect",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "covid",
+      "command": "plan",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "covid",
+      "command": "train",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "lung",
+      "command": "inspect",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "lung",
+      "command": "plan",
+      "mode": "no_execution",
+      "returncode": 0
+    },
+    {
+      "dataset": "lung",
+      "command": "train",
+      "mode": "no_execution",
+      "returncode": 0
+    }
+  ],
+  "independent_copy_hashes_checked": 140,
+  "panels": {
+    "ipf": [
+      "ipf_umap_condition1_cell_type.pdf",
+      "ipf_umap_condition1_cell_type.svg",
+      "ipf_umap_condition1_cell_type.png",
+      "ipf_umap_condition1_cluster.pdf",
+      "ipf_umap_condition1_cluster.svg",
+      "ipf_umap_condition1_cluster.png",
+      "ipf_umap_condition2_cell_type.pdf",
+      "ipf_umap_condition2_cell_type.svg",
+      "ipf_umap_condition2_cell_type.png",
+      "ipf_umap_condition2_cluster.pdf",
+      "ipf_umap_condition2_cluster.svg",
+      "ipf_umap_condition2_cluster.png",
+      "ipf_clean_pair_network.pdf",
+      "ipf_clean_pair_network.svg",
+      "ipf_clean_pair_network.png",
+      "ipf_marker_heatmap.pdf",
+      "ipf_marker_heatmap.svg",
+      "ipf_marker_heatmap.png",
+      "ipf_pathways_C7_to_D10.pdf",
+      "ipf_pathways_C7_to_D10.svg",
+      "ipf_pathways_C7_to_D10.png",
+      "ipf_pathways_C4_to_D12.pdf",
+      "ipf_pathways_C4_to_D12.svg",
+      "ipf_pathways_C4_to_D12.png"
+    ],
+    "covid": [
+      "covid_umap_condition1_cell_type.pdf",
+      "covid_umap_condition1_cell_type.svg",
+      "covid_umap_condition1_cell_type.png",
+      "covid_umap_condition1_cluster.pdf",
+      "covid_umap_condition1_cluster.svg",
+      "covid_umap_condition1_cluster.png",
+      "covid_umap_condition2_cell_type.pdf",
+      "covid_umap_condition2_cell_type.svg",
+      "covid_umap_condition2_cell_type.png",
+      "covid_umap_condition2_cluster.pdf",
+      "covid_umap_condition2_cluster.svg",
+      "covid_umap_condition2_cluster.png",
+      "covid_clean_pair_network.pdf",
+      "covid_clean_pair_network.svg",
+      "covid_clean_pair_network.png",
+      "covid_marker_heatmap.pdf",
+      "covid_marker_heatmap.svg",
+      "covid_marker_heatmap.png",
+      "covid_pathways_C11_to_D3.pdf",
+      "covid_pathways_C11_to_D3.svg",
+      "covid_pathways_C11_to_D3.png",
+      "covid_pathways_C6_to_D0.pdf",
+      "covid_pathways_C6_to_D0.svg",
+      "covid_pathways_C6_to_D0.png"
+    ],
+    "lung": [
+      "lung_umap_condition1_cell_type.pdf",
+      "lung_umap_condition1_cell_type.svg",
+      "lung_umap_condition1_cell_type.png",
+      "lung_umap_condition1_cluster.pdf",
+      "lung_umap_condition1_cluster.svg",
+      "lung_umap_condition1_cluster.png",
+      "lung_umap_condition2_cell_type.pdf",
+      "lung_umap_condition2_cell_type.svg",
+      "lung_umap_condition2_cell_type.png",
+      "lung_umap_condition2_cluster.pdf",
+      "lung_umap_condition2_cluster.svg",
+      "lung_umap_condition2_cluster.png",
+      "lung_clean_pair_network.pdf",
+      "lung_clean_pair_network.svg",
+      "lung_clean_pair_network.png",
+      "lung_marker_heatmap.pdf",
+      "lung_marker_heatmap.svg",
+      "lung_marker_heatmap.png",
+      "lung_pathways_C7_to_D10.pdf",
+      "lung_pathways_C7_to_D10.svg",
+      "lung_pathways_C7_to_D10.png",
+      "lung_pathways_C15_to_D22.pdf",
+      "lung_pathways_C15_to_D22.svg",
+      "lung_pathways_C15_to_D22.png"
+    ]
+  },
+  "execution_location": "compute_allocation"
+}

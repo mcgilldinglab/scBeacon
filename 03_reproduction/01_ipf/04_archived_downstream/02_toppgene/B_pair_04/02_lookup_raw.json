@@ -1,0 +1,340 @@
+{
+  "Genes": [
+    {
+      "OfficialSymbol": "SPARC",
+      "Entrez": 6678,
+      "Submitted": "ENSG00000113140",
+      "Description": "secreted protein acidic and cysteine rich"
+    },
+    {
+      "OfficialSymbol": "LINC02478",
+      "Entrez": 100505984,
+      "Submitted": "ENSG00000115221",
+      "Description": "long intergenic non-protein coding RNA 2478"
+    },
+    {
+      "OfficialSymbol": "FN1",
+      "Entrez": 2335,
+      "Submitted": "ENSG00000115414",
+      "Description": "fibronectin 1"
+    },
+    {
+      "OfficialSymbol": "TM4SF1",
+      "Entrez": 4071,
+      "Submitted": "ENSG00000169908",
+      "Description": "transmembrane 4 L six family member 1"
+    },
+    {
+      "OfficialSymbol": "NTM",
+      "Entrez": 50863,
+      "Submitted": "ENSG00000182667",
+      "Description": "neurotrimin"
+    },
+    {
+      "OfficialSymbol": "SCGB3A1",
+      "Entrez": 92304,
+      "Submitted": "ENSG00000161055",
+      "Description": "secretoglobin family 3A member 1"
+    },
+    {
+      "OfficialSymbol": "PTPRG",
+      "Entrez": 5793,
+      "Submitted": "ENSG00000144724",
+      "Description": "protein tyrosine phosphatase receptor type G"
+    },
+    {
+      "OfficialSymbol": "SCGB1A1",
+      "Entrez": 7356,
+      "Submitted": "ENSG00000149021",
+      "Description": "secretoglobin family 1A member 1"
+    },
+    {
+      "OfficialSymbol": "CRIP1",
+      "Entrez": 1396,
+      "Submitted": "ENSG00000213145",
+      "Description": "cysteine rich protein 1"
+    },
+    {
+      "OfficialSymbol": "PLD5",
+      "Entrez": 200150,
+      "Submitted": "ENSG00000180287",
+      "Description": "phospholipase D family member 5"
+    },
+    {
+      "OfficialSymbol": "AREG",
+      "Entrez": 374,
+      "Submitted": "ENSG00000109321",
+      "Description": "amphiregulin"
+    },
+    {
+      "OfficialSymbol": "IL32",
+      "Entrez": 9235,
+      "Submitted": "ENSG00000008517",
+      "Description": "interleukin 32"
+    },
+    {
+      "OfficialSymbol": "MT2A",
+      "Entrez": 4502,
+      "Submitted": "ENSG00000125148",
+      "Description": "metallothionein 2A"
+    },
+    {
+      "OfficialSymbol": "ATF7IP2",
+      "Entrez": 80063,
+      "Submitted": "ENSG00000166669",
+      "Description": "activating transcription factor 7 interacting protein 2"
+    },
+    {
+      "OfficialSymbol": "CCND2",
+      "Entrez": 894,
+      "Submitted": "ENSG00000118971",
+      "Description": "cyclin D2"
+    },
+    {
+      "OfficialSymbol": "SNX25",
+      "Entrez": 83891,
+      "Submitted": "ENSG00000109762",
+      "Description": "sorting nexin 25"
+    },
+    {
+      "OfficialSymbol": "GPRC5D-AS1",
+      "Entrez": 100506314,
+      "Submitted": "ENSG00000247498",
+      "Description": "GPRC5D and HEBP1 antisense RNA 1"
+    },
+    {
+      "OfficialSymbol": "SFN",
+      "Entrez": 2810,
+      "Submitted": "ENSG00000175793",
+      "Description": "stratifin"
+    },
+    {
+      "OfficialSymbol": "BCAT1",
+      "Entrez": 586,
+      "Submitted": "ENSG00000060982",
+      "Description": "branched chain amino acid transaminase 1"
+    },
+    {
+      "OfficialSymbol": "PRSS23",
+      "Entrez": 11098,
+      "Submitted": "ENSG00000150687",
+      "Description": "serine protease 23"
+    },
+    {
+      "OfficialSymbol": "TMEM164",
+      "Entrez": 84187,
+      "Submitted": "ENSG00000157600",
+      "Description": "transmembrane protein 164"
+    },
+    {
+      "OfficialSymbol": "DCLK1",
+      "Entrez": 9201,
+      "Submitted": "ENSG00000133083",
+      "Description": "doublecortin like kinase 1"
+    },
+    {
+      "OfficialSymbol": "MT1X",
+      "Entrez": 4501,
+      "Submitted": "ENSG00000187193",
+      "Description": "metallothionein 1X"
+    },
+    {
+      "OfficialSymbol": "TPPP3",
+      "Entrez": 51673,
+      "Submitted": "ENSG00000159713",
+      "Description": "tubulin polymerization promoting protein family member 3"
+    },
+    {
+      "OfficialSymbol": "RARRES2",
+      "Entrez": 5919,
+      "Submitted": "ENSG00000106538",
+      "Description": "retinoic acid receptor responder 2"
+    },
+    {
+      "OfficialSymbol": "LHFPL6",
+      "Entrez": 10186,
+      "Submitted": "ENSG00000183722",
+      "Description": "LHFPL tetraspan subfamily member 6"
+    },
+    {
+      "OfficialSymbol": "LINC01290",
+      "Entrez": 106144584,
+      "Submitted": "ENSG00000260468",
+      "Description": "long intergenic non-protein coding RNA 1290"
+    },
+    {
+      "OfficialSymbol": "CPM",
+      "Entrez": 1368,
+      "Submitted": "ENSG00000135678",
+      "Description": "carboxypeptidase M"
+    },
+    {
+      "OfficialSymbol": "SERPINA1",
+      "Entrez": 5265,
+      "Submitted": "ENSG00000197249",
+      "Description": "serpin family A member 1"
+    },
+    {
+      "OfficialSymbol": "CST6",
+      "Entrez": 1474,
+      "Submitted": "ENSG00000175315",
+      "Description": "cystatin E/M"
+    },
+    {
+      "OfficialSymbol": "CCL2",
+      "Entrez": 6347,
+      "Submitted": "ENSG00000108691",
+      "Description": "C-C motif chemokine ligand 2"
+    },
+    {
+      "OfficialSymbol": "CALD1",
+      "Entrez": 800,
+      "Submitted": "ENSG00000122786",
+      "Description": "caldesmon 1"
+    },
+    {
+      "OfficialSymbol": "LGALS1",
+      "Entrez": 3956,
+      "Submitted": "ENSG00000100097",
+      "Description": "galectin 1"
+    },
+    {
+      "OfficialSymbol": "ABTB2",
+      "Entrez": 25841,
+      "Submitted": "ENSG00000166016",
+      "Description": "ankyrin repeat and BTB domain containing 2"
+    },
+    {
+      "OfficialSymbol": "TMEM132D",
+      "Entrez": 121256,
+      "Submitted": "ENSG00000151952",
+      "Description": "transmembrane protein 132D"
+    },
+    {
+      "OfficialSymbol": "ABI3BP",
+      "Entrez": 25890,
+      "Submitted": "ENSG00000154175",
+      "Description": "ABI family member 3 binding protein"
+    },
+    {
+      "OfficialSymbol": "KCNJ15",
+      "Entrez": 3772,
+      "Submitted": "ENSG00000157551",
+      "Description": "potassium inwardly rectifying channel subfamily J member 15"
+    },
+    {
+      "OfficialSymbol": "PELI1",
+      "Entrez": 57162,
+      "Submitted": "ENSG00000197329",
+      "Description": "pellino E3 ubiquitin protein ligase 1"
+    },
+    {
+      "OfficialSymbol": "FRMD5",
+      "Entrez": 84978,
+      "Submitted": "ENSG00000171877",
+      "Description": "FERM domain containing 5"
+    },
+    {
+      "OfficialSymbol": "PTGS2",
+      "Entrez": 5743,
+      "Submitted": "ENSG00000073756",
+      "Description": "prostaglandin-endoperoxide synthase 2"
+    },
+    {
+      "OfficialSymbol": "TNFRSF21",
+      "Entrez": 27242,
+      "Submitted": "ENSG00000146072",
+      "Description": "TNF receptor superfamily member 21"
+    },
+    {
+      "OfficialSymbol": "STK32A",
+      "Entrez": 202374,
+      "Submitted": "ENSG00000169302",
+      "Description": "serine/threonine kinase 32A"
+    },
+    {
+      "OfficialSymbol": "CTSE",
+      "Entrez": 1510,
+      "Submitted": "ENSG00000196188",
+      "Description": "cathepsin E"
+    },
+    {
+      "OfficialSymbol": "ADAMTSL1",
+      "Entrez": 92949,
+      "Submitted": "ENSG00000178031",
+      "Description": "ADAMTS like 1"
+    },
+    {
+      "OfficialSymbol": "NLGN1",
+      "Entrez": 22871,
+      "Submitted": "ENSG00000169760",
+      "Description": "neuroligin 1"
+    },
+    {
+      "OfficialSymbol": "IPCEF1",
+      "Entrez": 26034,
+      "Submitted": "ENSG00000153721",
+      "Description": "interaction protein for cytohesin exchange factors 1"
+    },
+    {
+      "OfficialSymbol": "CXCL2",
+      "Entrez": 2920,
+      "Submitted": "ENSG00000081041",
+      "Description": "C-X-C motif chemokine ligand 2"
+    },
+    {
+      "OfficialSymbol": "DTNA",
+      "Entrez": 1837,
+      "Submitted": "ENSG00000134769",
+      "Description": "dystrobrevin alpha"
+    },
+    {
+      "OfficialSymbol": "TIMP1",
+      "Entrez": 7076,
+      "Submitted": "ENSG00000102265",
+      "Description": "TIMP metallopeptidase inhibitor 1"
+    },
+    {
+      "OfficialSymbol": "MTND4P12",
+      "Entrez": 100293090,
+      "Submitted": "ENSG00000247627",
+      "Description": "MT-ND4 pseudogene 12"
+    },
+    {
+      "OfficialSymbol": "CMAHP",
+      "Entrez": 8418,
+      "Submitted": "ENSG00000168405",
+      "Description": "cytidine monophospho-N-acetylneuraminic acid hydroxylase, pseudogene"
+    },
+    {
+      "OfficialSymbol": "LOC105374971",
+      "Entrez": 105374971,
+      "Submitted": "ENSG00000272168",
+      "Description": "uncharacterized LOC105374971"
+    },
+    {
+      "OfficialSymbol": "PLPP3",
+      "Entrez": 8613,
+      "Submitted": "ENSG00000162407",
+      "Description": "phospholipid phosphatase 3"
+    },
+    {
+      "OfficialSymbol": "ALDH1A3",
+      "Entrez": 220,
+      "Submitted": "ENSG00000184254",
+      "Description": "aldehyde dehydrogenase 1 family member A3"
+    },
+    {
+      "OfficialSymbol": "MGP",
+      "Entrez": 4256,
+      "Submitted": "ENSG00000111341",
+      "Description": "matrix Gla protein"
+    },
+    {
+      "OfficialSymbol": "PDLIM3",
+      "Entrez": 27295,
+      "Submitted": "ENSG00000154553",
+      "Description": "PDZ and LIM domain 3"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+row_id	pair_id	pair_plot_id	pair_display_label	condition	cluster	cluster_label	dominant_cell_type	row_label	n_cells	same_dominant_annotation	pair_label
+P1|Control	B_pair_00	P1	P1: Ciliated D0 -> Ciliated C3	Control	3	C3	Ciliated	C3->D0_Control	623	True	C3->D0
+P1|IPF	B_pair_00	P1	P1: Ciliated D0 -> Ciliated C3	IPF	0	D0	Ciliated	C3->D0_IPF	2949	True	C3->D0
+P2|Control	B_pair_01	P2	P2: Ciliated D1 -> Ciliated C3	Control	3	C3	Ciliated	C3->D1_Control	623	True	C3->D1
+P2|IPF	B_pair_01	P2	P2: Ciliated D1 -> Ciliated C3	IPF	1	D1	Ciliated	C3->D1_IPF	1996	True	C3->D1
+P3|Control	B_pair_02	P3	P3: Aberrant_Basaloid D10 -> ATII C7	Control	7	C7	ATII	C7->D10_Control	321	False	C7->D10
+P3|IPF	B_pair_02	P3	P3: Aberrant_Basaloid D10 -> ATII C7	IPF	10	D10	Aberrant_Basaloid	C7->D10_IPF	500	False	C7->D10
+P4|Control	B_pair_04	P4	P4: ATI D12 -> ATI C4	Control	4	C4	ATI	C4->D12_Control	483	True	C4->D12
+P4|IPF	B_pair_04	P4	P4: ATI D12 -> ATI C4	IPF	12	D12	ATI	C4->D12_IPF	127	True	C4->D12
+P5|Control	B_pair_07	P5	P5: Club D3 -> ATII C6	Control	6	C6	ATII	C6->D3_Control	324	False	C6->D3
+P5|IPF	B_pair_07	P5	P5: Club D3 -> ATII C6	IPF	3	D3	Club	C6->D3_IPF	1336	False	C6->D3
+P6|Control	B_pair_09	P6	P6: Goblet D5 -> Club C8	Control	8	C8	Club	C8->D5_Control	274	False	C8->D5
+P6|IPF	B_pair_09	P6	P6: Goblet D5 -> Club C8	IPF	5	D5	Goblet	C8->D5_IPF	742	False	C8->D5
+P7|Control	B_pair_10	P7	P7: Goblet D6 -> Club C8	Control	8	C8	Club	C8->D6_Control	274	False	C8->D6
+P7|IPF	B_pair_10	P7	P7: Goblet D6 -> Club C8	IPF	6	D6	Goblet	C8->D6_IPF	728	False	C8->D6
+P8|Control	B_pair_11	P8	P8: Basal D7 -> Basal C9	Control	9	C9	Basal	C9->D7_Control	122	True	C9->D7
+P8|IPF	B_pair_11	P8	P8: Basal D7 -> Basal C9	IPF	7	D7	Basal	C9->D7_IPF	657	True	C9->D7
+P9|Control	B_pair_12	P9	P9: Ciliated D8 -> Ciliated C3	Control	3	C3	Ciliated	C3->D8_Control	623	True	C3->D8
+P9|IPF	B_pair_12	P9	P9: Ciliated D8 -> Ciliated C3	IPF	8	D8	Ciliated	C3->D8_IPF	611	True	C3->D8

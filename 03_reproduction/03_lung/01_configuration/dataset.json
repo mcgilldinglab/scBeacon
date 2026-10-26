@@ -1,0 +1,23 @@
+{
+  "dataset_id": "lung",
+  "seed": 38,
+  "iterations": 33,
+  "recorded_training_resolution": 0.3,
+  "condition1_name": "Normal",
+  "condition2_name": "Tumor",
+  "condition1_input": "../02_data/normal_raw_top2000_hvg.h5ad",
+  "condition2_input": "../02_data/tumor_raw_top2000_hvg.h5ad",
+  "combined_lognorm": "../02_data/combined_lognorm_top2000_hvg.h5ad",
+  "embedding": "../02_data/selected_embedding.npy",
+  "label_key_1": "Cell_type",
+  "label_key_2": "Cell_type",
+  "compatibility_profile": "covid09",
+  "reference_dir": "../03_reference",
+  "output_dir": "../../../../scbeacon_runs/lung",
+  "exclude_viral_markers": false,
+  "batch_size": 512,
+  "pretrain_epochs": 40,
+  "annotation_epochs": 20,
+  "contrastive_epochs": 5,
+  "expected_clean_pairs": 23
+}

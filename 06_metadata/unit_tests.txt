@@ -1,0 +1,14 @@
+test_compute_guard_without_allocation (test_release.ReleaseTests.test_compute_guard_without_allocation) ... ok
+test_counts_cohorts_and_plot_tables (test_release.ReleaseTests.test_counts_cohorts_and_plot_tables) ... ok
+test_directed_edge_count_toy (test_release.ReleaseTests.test_directed_edge_count_toy) ... ok
+test_pathway_values_against_archived_toppgene (test_release.ReleaseTests.test_pathway_values_against_archived_toppgene) ... ok
+test_plan_handoffs_use_new_embedding (test_release.ReleaseTests.test_plan_handoffs_use_new_embedding) ... ok
+test_portable_configuration (test_release.ReleaseTests.test_portable_configuration) ... ok
+test_protected_output (test_release.ReleaseTests.test_protected_output) ... ok
+test_scientific_entry_imports_without_execution (test_release.ReleaseTests.test_scientific_entry_imports_without_execution) ... ok
+test_stats_against_frozen_background (test_release.ReleaseTests.test_stats_against_frozen_background) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 12.065s
+
+OK

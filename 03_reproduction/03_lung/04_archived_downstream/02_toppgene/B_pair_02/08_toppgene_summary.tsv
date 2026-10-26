@@ -1,0 +1,2 @@
+collection	deg_test	unit_version	unit_id	unit_type	input_gene_count	mapped_gene_count	n_annotations	n_significant_fdrbh	top_category	top_term	top_qvalue_fdrbh	status	detail	unit_output_dir
+wilcoxon_version_b_group_to_reference_directed_pairs	wilcoxon	version_b_group_to_reference_directed_pairs	B_pair_02	kl_matched_pair	128	123	1537	1537	ToppCell	normal_Lung-Myeloid_cells-mo-Mac|Myeloid_cells / Location, Cell class and cell subclass	1.3864029308342822e-77	completed		03_reproduction/03_lung/04_archived_downstream/02_toppgene/B_pair_02

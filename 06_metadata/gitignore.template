@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+**/02_data/*.h5ad
+**/02_data/*.npy
+**/02_data/*.pickle
+**/02_data/*.pt
+**/02_data/*.pth
+*.log
+scbeacon_runs/
+.DS_Store

@@ -1,0 +1,33 @@
+{
+  "mode": "redrawn_from_frozen_numerical_values",
+  "font": "Liberation Sans",
+  "font_size_pt": 5,
+  "raster_dpi": 300,
+  "vector_except_umap_cloud": true,
+  "files": [
+    "lung_umap_condition1_cell_type.pdf",
+    "lung_umap_condition1_cell_type.svg",
+    "lung_umap_condition1_cell_type.png",
+    "lung_umap_condition1_cluster.pdf",
+    "lung_umap_condition1_cluster.svg",
+    "lung_umap_condition1_cluster.png",
+    "lung_umap_condition2_cell_type.pdf",
+    "lung_umap_condition2_cell_type.svg",
+    "lung_umap_condition2_cell_type.png",
+    "lung_umap_condition2_cluster.pdf",
+    "lung_umap_condition2_cluster.svg",
+    "lung_umap_condition2_cluster.png",
+    "lung_clean_pair_network.pdf",
+    "lung_clean_pair_network.svg",
+    "lung_clean_pair_network.png",
+    "lung_marker_heatmap.pdf",
+    "lung_marker_heatmap.svg",
+    "lung_marker_heatmap.png",
+    "lung_pathways_C7_to_D10.pdf",
+    "lung_pathways_C7_to_D10.svg",
+    "lung_pathways_C7_to_D10.png",
+    "lung_pathways_C15_to_D22.pdf",
+    "lung_pathways_C15_to_D22.svg",
+    "lung_pathways_C15_to_D22.png"
+  ]
+}

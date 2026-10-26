@@ -1,0 +1,358 @@
+{
+  "Genes": [
+    {
+      "OfficialSymbol": "IGKC",
+      "Entrez": 3514,
+      "Submitted": "IGKC",
+      "Description": "immunoglobulin kappa constant"
+    },
+    {
+      "OfficialSymbol": "HSPG2",
+      "Entrez": 3339,
+      "Submitted": "HSPG2",
+      "Description": "heparan sulfate proteoglycan 2"
+    },
+    {
+      "OfficialSymbol": "IGFBP7",
+      "Entrez": 3490,
+      "Submitted": "IGFBP7",
+      "Description": "insulin like growth factor binding protein 7"
+    },
+    {
+      "OfficialSymbol": "IGLC2",
+      "Entrez": 3538,
+      "Submitted": "IGLC2",
+      "Description": "immunoglobulin lambda constant 2"
+    },
+    {
+      "OfficialSymbol": "PLVAP",
+      "Entrez": 83483,
+      "Submitted": "PLVAP",
+      "Description": "plasmalemma vesicle associated protein"
+    },
+    {
+      "OfficialSymbol": "INSR",
+      "Entrez": 3643,
+      "Submitted": "INSR",
+      "Description": "insulin receptor"
+    },
+    {
+      "OfficialSymbol": "COL4A1",
+      "Entrez": 1282,
+      "Submitted": "COL4A1",
+      "Description": "collagen type IV alpha 1 chain"
+    },
+    {
+      "OfficialSymbol": "IGHA1",
+      "Entrez": 3493,
+      "Submitted": "IGHA1",
+      "Description": "immunoglobulin heavy constant alpha 1"
+    },
+    {
+      "OfficialSymbol": "IGHG4",
+      "Entrez": 3503,
+      "Submitted": "IGHG4",
+      "Description": "immunoglobulin heavy constant gamma 4 (G4m marker)"
+    },
+    {
+      "OfficialSymbol": "FAM167B",
+      "Entrez": 84734,
+      "Submitted": "FAM167B",
+      "Description": "family with sequence similarity 167 member B"
+    },
+    {
+      "OfficialSymbol": "EMP1",
+      "Entrez": 2012,
+      "Submitted": "EMP1",
+      "Description": "epithelial membrane protein 1"
+    },
+    {
+      "OfficialSymbol": "HTRA1",
+      "Entrez": 5654,
+      "Submitted": "HTRA1",
+      "Description": "HtrA serine peptidase 1"
+    },
+    {
+      "OfficialSymbol": "DIPK2B",
+      "Entrez": 79742,
+      "Submitted": "CXorf36",
+      "Description": "divergent protein kinase domain 2B"
+    },
+    {
+      "OfficialSymbol": "PCDH17",
+      "Entrez": 27253,
+      "Submitted": "PCDH17",
+      "Description": "protocadherin 17"
+    },
+    {
+      "OfficialSymbol": "CD34",
+      "Entrez": 947,
+      "Submitted": "CD34",
+      "Description": "CD34 molecule"
+    },
+    {
+      "OfficialSymbol": "IGHG3",
+      "Entrez": 3502,
+      "Submitted": "IGHG3",
+      "Description": "immunoglobulin heavy constant gamma 3 (G3m marker)"
+    },
+    {
+      "OfficialSymbol": "IGLC3",
+      "Entrez": 3539,
+      "Submitted": "IGLC3",
+      "Description": "immunoglobulin lambda constant 3 (Kern-Oz+ marker)"
+    },
+    {
+      "OfficialSymbol": "ADGRL4",
+      "Entrez": 64123,
+      "Submitted": "ADGRL4",
+      "Description": "adhesion G protein-coupled receptor L4"
+    },
+    {
+      "OfficialSymbol": "ACKR1",
+      "Entrez": 2532,
+      "Submitted": "ACKR1",
+      "Description": "atypical chemokine receptor 1 (Duffy blood group)"
+    },
+    {
+      "OfficialSymbol": "COL18A1",
+      "Entrez": 80781,
+      "Submitted": "COL18A1",
+      "Description": "collagen type XVIII alpha 1 chain"
+    },
+    {
+      "OfficialSymbol": "COL4A2",
+      "Entrez": 1284,
+      "Submitted": "COL4A2",
+      "Description": "collagen type IV alpha 2 chain"
+    },
+    {
+      "OfficialSymbol": "CAVIN3",
+      "Entrez": 112464,
+      "Submitted": "PRKCDBP",
+      "Description": "caveolae associated protein 3"
+    },
+    {
+      "OfficialSymbol": "GJA1",
+      "Entrez": 2697,
+      "Submitted": "GJA1",
+      "Description": "gap junction protein alpha 1"
+    },
+    {
+      "OfficialSymbol": "RBP7",
+      "Entrez": 116362,
+      "Submitted": "RBP7",
+      "Description": "retinol binding protein 7"
+    },
+    {
+      "OfficialSymbol": "IGFBP2",
+      "Entrez": 3485,
+      "Submitted": "IGFBP2",
+      "Description": "insulin like growth factor binding protein 2"
+    },
+    {
+      "OfficialSymbol": "SPRY1",
+      "Entrez": 10252,
+      "Submitted": "SPRY1",
+      "Description": "sprouty RTK signaling antagonist 1"
+    },
+    {
+      "OfficialSymbol": "TM4SF18",
+      "Entrez": 116441,
+      "Submitted": "TM4SF18",
+      "Description": "transmembrane 4 L six family member 18"
+    },
+    {
+      "OfficialSymbol": "IGHG1",
+      "Entrez": 3500,
+      "Submitted": "IGHG1",
+      "Description": "immunoglobulin heavy constant gamma 1 (G1m marker)"
+    },
+    {
+      "OfficialSymbol": "ADAMTS9",
+      "Entrez": 56999,
+      "Submitted": "ADAMTS9",
+      "Description": "ADAM metallopeptidase with thrombospondin type 1 motif 9"
+    },
+    {
+      "OfficialSymbol": "TSPAN13",
+      "Entrez": 27075,
+      "Submitted": "TSPAN13",
+      "Description": "tetraspanin 13"
+    },
+    {
+      "OfficialSymbol": "C11orf96",
+      "Entrez": 387763,
+      "Submitted": "C11orf96",
+      "Description": "chromosome 11 open reading frame 96"
+    },
+    {
+      "OfficialSymbol": "MMP2",
+      "Entrez": 4313,
+      "Submitted": "MMP2",
+      "Description": "matrix metallopeptidase 2"
+    },
+    {
+      "OfficialSymbol": "COL6A2",
+      "Entrez": 1292,
+      "Submitted": "COL6A2",
+      "Description": "collagen type VI alpha 2 chain"
+    },
+    {
+      "OfficialSymbol": "RBP5",
+      "Entrez": 83758,
+      "Submitted": "RBP5",
+      "Description": "retinol binding protein 5"
+    },
+    {
+      "OfficialSymbol": "ANKRD28",
+      "Entrez": 23243,
+      "Submitted": "ANKRD28",
+      "Description": "ankyrin repeat domain 28"
+    },
+    {
+      "OfficialSymbol": "APLNR",
+      "Entrez": 187,
+      "Submitted": "APLNR",
+      "Description": "apelin receptor"
+    },
+    {
+      "OfficialSymbol": "STAB1",
+      "Entrez": 23166,
+      "Submitted": "STAB1",
+      "Description": "stabilin 1"
+    },
+    {
+      "OfficialSymbol": "ADAMTS1",
+      "Entrez": 9510,
+      "Submitted": "ADAMTS1",
+      "Description": "ADAM metallopeptidase with thrombospondin type 1 motif 1"
+    },
+    {
+      "OfficialSymbol": "THY1",
+      "Entrez": 7070,
+      "Submitted": "THY1",
+      "Description": "Thy-1 cell surface antigen"
+    },
+    {
+      "OfficialSymbol": "MAP1B",
+      "Entrez": 4131,
+      "Submitted": "MAP1B",
+      "Description": "microtubule associated protein 1B"
+    },
+    {
+      "OfficialSymbol": "CD79B",
+      "Entrez": 974,
+      "Submitted": "CD79B",
+      "Description": "CD79b molecule"
+    },
+    {
+      "OfficialSymbol": "MMRN1",
+      "Entrez": 22915,
+      "Submitted": "MMRN1",
+      "Description": "multimerin 1"
+    },
+    {
+      "OfficialSymbol": "CCL18",
+      "Entrez": 6362,
+      "Submitted": "CCL18",
+      "Description": "C-C motif chemokine ligand 18"
+    },
+    {
+      "OfficialSymbol": "JCHAIN",
+      "Entrez": 3512,
+      "Submitted": "JCHAIN",
+      "Description": "joining chain of multimeric IgA and IgM"
+    },
+    {
+      "OfficialSymbol": "ANGPT2",
+      "Entrez": 285,
+      "Submitted": "ANGPT2",
+      "Description": "angiopoietin 2"
+    },
+    {
+      "OfficialSymbol": "RND1",
+      "Entrez": 27289,
+      "Submitted": "RND1",
+      "Description": "Rho family GTPase 1"
+    },
+    {
+      "OfficialSymbol": "KRT18",
+      "Entrez": 3875,
+      "Submitted": "KRT18",
+      "Description": "keratin 18"
+    },
+    {
+      "OfficialSymbol": "BGN",
+      "Entrez": 633,
+      "Submitted": "BGN",
+      "Description": "biglycan"
+    },
+    {
+      "OfficialSymbol": "THBS1",
+      "Entrez": 7057,
+      "Submitted": "THBS1",
+      "Description": "thrombospondin 1"
+    },
+    {
+      "OfficialSymbol": "CPXM2",
+      "Entrez": 119587,
+      "Submitted": "CPXM2",
+      "Description": "carboxypeptidase X, M14 family member 2"
+    },
+    {
+      "OfficialSymbol": "PGF",
+      "Entrez": 5228,
+      "Submitted": "PGF",
+      "Description": "placental growth factor"
+    },
+    {
+      "OfficialSymbol": "CTHRC1",
+      "Entrez": 115908,
+      "Submitted": "CTHRC1",
+      "Description": "collagen triple helix repeat containing 1"
+    },
+    {
+      "OfficialSymbol": "NID1",
+      "Entrez": 4811,
+      "Submitted": "NID1",
+      "Description": "nidogen 1"
+    },
+    {
+      "OfficialSymbol": "NBL1",
+      "Entrez": 4681,
+      "Submitted": "NBL1",
+      "Description": "NBL1, DAN family BMP antagonist"
+    },
+    {
+      "OfficialSymbol": "STC1",
+      "Entrez": 6781,
+      "Submitted": "STC1",
+      "Description": "stanniocalcin 1"
+    },
+    {
+      "OfficialSymbol": "IGHM",
+      "Entrez": 3507,
+      "Submitted": "IGHM",
+      "Description": "immunoglobulin heavy constant mu"
+    },
+    {
+      "OfficialSymbol": "GDF15",
+      "Entrez": 9518,
+      "Submitted": "GDF15",
+      "Description": "growth differentiation factor 15"
+    },
+    {
+      "OfficialSymbol": "COL6A1",
+      "Entrez": 1291,
+      "Submitted": "COL6A1",
+      "Description": "collagen type VI alpha 1 chain"
+    },
+    {
+      "OfficialSymbol": "SELE",
+      "Entrez": 6401,
+      "Submitted": "SELE",
+      "Description": "selectin E"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "notebook": "04_docs/02_notebooks/01_quickstart.ipynb",
+    "executed": true,
+    "code_cells": 6,
+    "output_cells": 5,
+    "errors": 0
+  },
+  {
+    "notebook": "03_reproduction/01_ipf/04_notebooks/01_manuscript_results.ipynb",
+    "executed": true,
+    "code_cells": 7,
+    "output_cells": 6,
+    "errors": 0
+  },
+  {
+    "notebook": "03_reproduction/02_covid/04_notebooks/01_manuscript_results.ipynb",
+    "executed": true,
+    "code_cells": 7,
+    "output_cells": 6,
+    "errors": 0
+  },
+  {
+    "notebook": "03_reproduction/03_lung/04_notebooks/01_manuscript_results.ipynb",
+    "executed": true,
+    "code_cells": 7,
+    "output_cells": 6,
+    "errors": 0
+  }
+]

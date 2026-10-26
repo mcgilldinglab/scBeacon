@@ -1,0 +1,23 @@
+{
+  "dataset_id": "ipf",
+  "seed": 23,
+  "iterations": 33,
+  "recorded_training_resolution": 0.1,
+  "condition1_name": "Control",
+  "condition2_name": "IPF",
+  "condition1_input": "../02_data/control_raw_top2000_hvg.h5ad",
+  "condition2_input": "../02_data/ipf_raw_top2000_hvg.h5ad",
+  "combined_lognorm": "../02_data/combined_lognorm_top2000_hvg.h5ad",
+  "embedding": "../02_data/selected_embedding.npy",
+  "label_key_1": "Manuscript_Identity",
+  "label_key_2": "Manuscript_Identity",
+  "compatibility_profile": "ipf09",
+  "reference_dir": "../03_reference",
+  "output_dir": "../../../../scbeacon_runs/ipf",
+  "exclude_viral_markers": false,
+  "batch_size": 512,
+  "pretrain_epochs": 40,
+  "annotation_epochs": 20,
+  "contrastive_epochs": 5,
+  "expected_clean_pairs": 9
+}

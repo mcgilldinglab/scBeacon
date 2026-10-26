@@ -1,0 +1,122 @@
+[
+  {
+    "dataset": "ipf",
+    "figure": "Control_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "Control_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "IPF_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "IPF_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "network",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "heatmap",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "C7->D10",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "ipf",
+    "figure": "C4->D12",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "Healthy_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "Healthy_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "COVID+_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "COVID+_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "network",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "heatmap",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "C11->D3",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "covid",
+    "figure": "C6->D0",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "Normal_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "Normal_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "Tumor_cell_type",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "Tumor_cluster",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "network",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "heatmap",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "C7->D10",
+    "clipped_objects": []
+  },
+  {
+    "dataset": "lung",
+    "figure": "C15->D22",
+    "clipped_objects": []
+  }
+]

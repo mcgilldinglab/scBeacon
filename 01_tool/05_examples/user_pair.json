@@ -1,0 +1,19 @@
+{
+  "dataset_id": "user_pair",
+  "condition1_input": "prepared/control_raw_top2000_hvg.h5ad",
+  "condition2_input": "prepared/disease_raw_top2000_hvg.h5ad",
+  "combined_lognorm": "prepared/combined_lognorm_top2000_hvg.h5ad",
+  "condition1_name": "Control",
+  "condition2_name": "Disease",
+  "label_key_1": "cell_type",
+  "label_key_2": "cell_type",
+  "seed": 0,
+  "iterations": 33,
+  "compatibility_profile": "covid09",
+  "output_dir": "runs/train",
+  "batch_size": 512,
+  "pretrain_epochs": 40,
+  "annotation_epochs": 20,
+  "contrastive_epochs": 5,
+  "use_cuda": true
+}

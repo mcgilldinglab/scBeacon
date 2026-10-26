@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="259.370079pt" height="155.905512pt" viewBox="0 0 259.370079 155.905512" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T10:43:05.245026</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 155.905512 
+L 259.370079 155.905512 
+L 259.370079 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 171.184252 127.84252 
+L 243.807874 127.84252 
+L 243.807874 15.590551 
+L 171.184252 15.590551 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 171.184252 20.692913 
+L 240.349606 20.692913 
+L 240.349606 27.566562 
+L 171.184252 27.566562 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 171.184252 31.267757 
+L 232.709867 31.267757 
+L 232.709867 38.141406 
+L 171.184252 38.141406 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 171.184252 41.842601 
+L 229.365037 41.842601 
+L 229.365037 48.71625 
+L 171.184252 48.71625 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 171.184252 52.417445 
+L 224.998034 52.417445 
+L 224.998034 59.291094 
+L 171.184252 59.291094 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 171.184252 62.992289 
+L 216.41355 62.992289 
+L 216.41355 69.865938 
+L 171.184252 69.865938 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 171.184252 73.567133 
+L 211.070485 73.567133 
+L 211.070485 80.440782 
+L 171.184252 80.440782 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 171.184252 84.141977 
+L 206.993893 84.141977 
+L 206.993893 91.015626 
+L 171.184252 91.015626 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 171.184252 94.716821 
+L 206.840794 94.716821 
+L 206.840794 101.59047 
+L 171.184252 101.59047 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 171.184252 105.291665 
+L 205.685507 105.291665 
+L 205.685507 112.165314 
+L 171.184252 112.165314 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 171.184252 115.866509 
+L 204.100503 115.866509 
+L 204.100503 122.740157 
+L 171.184252 122.740157 
+z
+" clip-path="url(#pe2b1341a3c)" style="fill: #537e8a"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mfa5e7347c3" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mfa5e7347c3" x="171.184252" y="127.84252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: middle" x="171.184252" y="138.465957" transform="rotate(-0 171.184252 138.465957)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mfa5e7347c3" x="205.794927" y="127.84252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: middle" x="205.794927" y="138.465957" transform="rotate(-0 205.794927 138.465957)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mfa5e7347c3" x="240.405602" y="127.84252" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: middle" x="240.405602" y="138.465957" transform="rotate(-0 240.405602 138.465957)">10</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: middle" x="207.496063" y="147.126895" transform="rotate(-0 207.496063 147.126895)">-log10 adjusted p-value</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <defs>
+       <path id="m395b8725b9" d="M 0 0 
+L -2 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="24.129738" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="25.941456" transform="rotate(-0 167.184252 25.941456)">CYTOKINE SIGNALING IN IMMUNE SYSTEM</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="34.704582" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="36.5163" transform="rotate(-0 167.184252 36.5163)">CYTOKINECYTOKINE RECEPTOR INTERACTION</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="45.279426" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="47.091144" transform="rotate(-0 167.184252 47.091144)">CHEMOKINE RECEPTORS BIND CHEMOKINES</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="55.85427" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'" transform="translate(55.217064 55.33552)">INTERACTIONS OF NATURAL KILLER CELLS IN</text>
+      <text style="font-size: 5px; font-family: 'Liberation Sans'" transform="translate(113.191283 60.721145)">PANCREATIC CANCER</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="66.429113" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="68.240832" transform="rotate(-0 167.184252 68.240832)">INTERFERON SIGNALING</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="77.003957" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; fill: #c62828" transform="translate(69.003002 76.485207)">OVERVIEW OF PROINFLAMMATORY AND</text>
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; fill: #c62828" transform="translate(102.360033 81.870832)">PROFIBROTIC MEDIATORS</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="87.578801" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end" x="167.184252" y="89.39052" transform="rotate(-0 167.184252 89.39052)">LUNG FIBROSIS</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="98.153645" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="99.965364" transform="rotate(-0 167.184252 99.965364)">INTERLEUKIN 10 SIGNALING</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="108.728489" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: end; fill: #c62828" x="167.184252" y="110.540208" transform="rotate(-0 167.184252 110.540208)">IL18 SIGNALING</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m395b8725b9" x="171.184252" y="119.303333" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; fill: #c62828" transform="translate(65.771752 118.784583)">SELECTIVE EXPRESSION OF CHEMOKINE</text>
+      <text style="font-size: 5px; font-family: 'Liberation Sans'; fill: #c62828" transform="translate(60.677221 124.170208)">RECEPTORS DURING TCELL POLARIZATION</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_13">
+    <path d="M 171.184252 127.84252 
+L 171.184252 15.590551 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 171.184252 127.84252 
+L 243.807874 127.84252 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 5px; font-family: 'Liberation Sans'; text-anchor: middle" x="207.496063" y="9.590551" transform="rotate(-0 207.496063 9.590551)">C11-&gt;D3</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe2b1341a3c">
+   <rect x="171.184252" y="15.590551" width="72.623622" height="112.251969"/>
+  </clipPath>
+ </defs>
+</svg>

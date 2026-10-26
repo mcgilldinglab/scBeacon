@@ -1,0 +1,26 @@
+[
+  {
+    "path": "03_reproduction/01_ipf/04_notebooks/01_manuscript_results.ipynb",
+    "all_code_cells_executed": true,
+    "embedded_png_outputs": 8,
+    "error_outputs": 0
+  },
+  {
+    "path": "03_reproduction/02_covid/04_notebooks/01_manuscript_results.ipynb",
+    "all_code_cells_executed": true,
+    "embedded_png_outputs": 8,
+    "error_outputs": 0
+  },
+  {
+    "path": "03_reproduction/03_lung/04_notebooks/01_manuscript_results.ipynb",
+    "all_code_cells_executed": true,
+    "embedded_png_outputs": 8,
+    "error_outputs": 0
+  },
+  {
+    "path": "04_docs/02_notebooks/01_quickstart.ipynb",
+    "all_code_cells_executed": true,
+    "embedded_png_outputs": 0,
+    "error_outputs": 0
+  }
+]

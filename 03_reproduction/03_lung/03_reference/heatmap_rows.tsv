@@ -1,0 +1,47 @@
+row_id	pair_id	pair_order	pair_cluster_label	condition	cluster	cluster_label	dominant_cell_type	row_label	n_cells	same_dominant_annotation	pair_label
+B_pair_00|Normal	B_pair_00	0	C0->D0	Normal	0	C0	T lymphocytes	C0->D0_Normal	4138	True	C0->D0
+B_pair_00|Tumor	B_pair_00	0	C0->D0	Tumor	0	D0	T lymphocytes	C0->D0_Tumor	4436	True	C0->D0
+B_pair_01|Normal	B_pair_01	1	C0->D1	Normal	0	C0	T lymphocytes	C0->D1_Normal	4138	True	C0->D1
+B_pair_01|Tumor	B_pair_01	1	C0->D1	Tumor	1	D1	T lymphocytes	C0->D1_Tumor	3993	True	C0->D1
+B_pair_23|Normal	B_pair_23	2	C0->D3	Normal	0	C0	T lymphocytes	C0->D3_Normal	4138	True	C0->D3
+B_pair_23|Tumor	B_pair_23	2	C0->D3	Tumor	3	D3	T lymphocytes	C0->D3_Tumor	3790	True	C0->D3
+B_pair_30|Normal	B_pair_30	3	C1->D8	Normal	1	C1	T lymphocytes	C1->D8_Normal	3772	True	C1->D8
+B_pair_30|Tumor	B_pair_30	3	C1->D8	Tumor	8	D8	T lymphocytes	C1->D8_Tumor	1694	True	C1->D8
+B_pair_11|Normal	B_pair_11	4	C2->D19	Normal	2	C2	NK cells	C2->D19_Normal	2720	True	C2->D19
+B_pair_11|Tumor	B_pair_11	4	C2->D19	Tumor	19	D19	NK cells	C2->D19_Tumor	894	True	C2->D19
+B_pair_28|Normal	B_pair_28	5	C4->D6	Normal	4	C4	Myeloid cells	C4->D6_Normal	2243	True	C4->D6
+B_pair_28|Tumor	B_pair_28	5	C4->D6	Tumor	6	D6	Myeloid cells	C4->D6_Tumor	2329	True	C4->D6
+B_pair_08|Normal	B_pair_08	6	C6->D16	Normal	6	C6	Myeloid cells	C6->D16_Normal	2216	True	C6->D16
+B_pair_08|Tumor	B_pair_08	6	C6->D16	Tumor	16	D16	Myeloid cells	C6->D16_Tumor	1156	True	C6->D16
+B_pair_02|Normal	B_pair_02	7	C7->D10	Normal	7	C7	Myeloid cells	C7->D10_Normal	2008	True	C7->D10
+B_pair_02|Tumor	B_pair_02	7	C7->D10	Tumor	10	D10	Myeloid cells	C7->D10_Tumor	1661	True	C7->D10
+B_pair_26|Normal	B_pair_26	8	C10->D4	Normal	10	C10	Myeloid cells	C10->D4_Normal	1883	True	C10->D4
+B_pair_26|Tumor	B_pair_26	8	C10->D4	Tumor	4	D4	Myeloid cells	C10->D4_Tumor	2639	True	C10->D4
+B_pair_19|Normal	B_pair_19	9	C11->D26	Normal	11	C11	T lymphocytes	C11->D26_Normal	1794	True	C11->D26
+B_pair_19|Tumor	B_pair_19	9	C11->D26	Tumor	26	D26	T lymphocytes	C11->D26_Tumor	311	True	C11->D26
+B_pair_13|Normal	B_pair_13	10	C13->D20	Normal	13	C13	Myeloid cells	C13->D20_Normal	1244	True	C13->D20
+B_pair_13|Tumor	B_pair_13	10	C13->D20	Tumor	20	D20	Myeloid cells	C13->D20_Tumor	681	True	C13->D20
+B_pair_21|Normal	B_pair_21	11	C14->D28	Normal	14	C14	Epithelial cells	C14->D28_Normal	1088	True	C14->D28
+B_pair_21|Tumor	B_pair_21	11	C14->D28	Tumor	28	D28	Epithelial cells	C14->D28_Tumor	157	True	C14->D28
+B_pair_15|Normal	B_pair_15	12	C15->D22	Normal	15	C15	Endothelial cells	C15->D22_Normal	1070	True	C15->D22
+B_pair_15|Tumor	B_pair_15	12	C15->D22	Tumor	22	D22	Endothelial cells	C15->D22_Tumor	567	True	C15->D22
+B_pair_29|Normal	B_pair_29	13	C17->D7	Normal	17	C17	MAST cells	C17->D7_Normal	1056	True	C17->D7
+B_pair_29|Tumor	B_pair_29	13	C17->D7	Tumor	7	D7	MAST cells	C17->D7_Tumor	1814	True	C17->D7
+B_pair_31|Normal	B_pair_31	14	C18->D9	Normal	18	C18	Fibroblasts	C18->D9_Normal	1054	True	C18->D9
+B_pair_31|Tumor	B_pair_31	14	C18->D9	Tumor	9	D9	Fibroblasts	C18->D9_Tumor	1673	True	C18->D9
+B_pair_14|Normal	B_pair_14	15	C19->D21	Normal	19	C19	Epithelial cells	C19->D21_Normal	1003	True	C19->D21
+B_pair_14|Tumor	B_pair_14	15	C19->D21	Tumor	21	D21	Epithelial cells	C19->D21_Tumor	580	True	C19->D21
+B_pair_07|Normal	B_pair_07	16	C21->D15	Normal	21	C21	Epithelial cells	C21->D15_Normal	819	True	C21->D15
+B_pair_07|Tumor	B_pair_07	16	C21->D15	Tumor	15	D15	Epithelial cells	C21->D15_Tumor	1184	True	C21->D15
+B_pair_18|Normal	B_pair_18	17	C21->D25	Normal	21	C21	Epithelial cells	C21->D25_Normal	819	True	C21->D25
+B_pair_18|Tumor	B_pair_18	17	C21->D25	Tumor	25	D25	Epithelial cells	C21->D25_Tumor	324	True	C21->D25
+B_pair_16|Normal	B_pair_16	18	C24->D23	Normal	24	C24	T lymphocytes	C24->D23_Normal	401	True	C24->D23
+B_pair_16|Tumor	B_pair_16	18	C24->D23	Tumor	23	D23	T lymphocytes	C24->D23_Tumor	564	True	C24->D23
+B_pair_27|Normal	B_pair_27	19	C25->D5	Normal	25	C25	B lymphocytes	C25->D5_Normal	291	True	C25->D5
+B_pair_27|Tumor	B_pair_27	19	C25->D5	Tumor	5	D5	B lymphocytes	C25->D5_Tumor	2438	True	C25->D5
+B_pair_04|Normal	B_pair_04	20	C25->D12	Normal	25	C25	B lymphocytes	C25->D12_Normal	291	True	C25->D12
+B_pair_04|Tumor	B_pair_04	20	C25->D12	Tumor	12	D12	B lymphocytes	C25->D12_Tumor	1436	True	C25->D12
+B_pair_03|Normal	B_pair_03	21	C28->D11	Normal	28	C28	B lymphocytes	C28->D11_Normal	152	True	C28->D11
+B_pair_03|Tumor	B_pair_03	21	C28->D11	Tumor	11	D11	B lymphocytes	C28->D11_Tumor	1592	True	C28->D11
+B_pair_22|Normal	B_pair_22	22	C29->D29	Normal	29	C29	B lymphocytes	C29->D29_Normal	149	False	C29->D29
+B_pair_22|Tumor	B_pair_22	22	C29->D29	Tumor	29	D29	Myeloid cells	C29->D29_Tumor	145	False	C29->D29

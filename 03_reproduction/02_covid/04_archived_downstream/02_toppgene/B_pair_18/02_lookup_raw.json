@@ -1,0 +1,538 @@
+{
+  "Genes": [
+    {
+      "OfficialSymbol": "NKG7",
+      "Entrez": 4818,
+      "Submitted": "NKG7",
+      "Description": "natural killer cell granule protein 7"
+    },
+    {
+      "OfficialSymbol": "CCL5",
+      "Entrez": 6352,
+      "Submitted": "CCL5",
+      "Description": "C-C motif chemokine ligand 5"
+    },
+    {
+      "OfficialSymbol": "IFITM2",
+      "Entrez": 10581,
+      "Submitted": "IFITM2",
+      "Description": "interferon induced transmembrane protein 2"
+    },
+    {
+      "OfficialSymbol": "GZMA",
+      "Entrez": 3001,
+      "Submitted": "GZMA",
+      "Description": "granzyme A"
+    },
+    {
+      "OfficialSymbol": "CTSW",
+      "Entrez": 1521,
+      "Submitted": "CTSW",
+      "Description": "cathepsin W"
+    },
+    {
+      "OfficialSymbol": "CST7",
+      "Entrez": 8530,
+      "Submitted": "CST7",
+      "Description": "cystatin F"
+    },
+    {
+      "OfficialSymbol": "PRF1",
+      "Entrez": 5551,
+      "Submitted": "PRF1",
+      "Description": "perforin 1"
+    },
+    {
+      "OfficialSymbol": "GZMB",
+      "Entrez": 3002,
+      "Submitted": "GZMB",
+      "Description": "granzyme B"
+    },
+    {
+      "OfficialSymbol": "CCL4",
+      "Entrez": 6351,
+      "Submitted": "CCL4",
+      "Description": "C-C motif chemokine ligand 4"
+    },
+    {
+      "OfficialSymbol": "KLRD1",
+      "Entrez": 3824,
+      "Submitted": "KLRD1",
+      "Description": "killer cell lectin like receptor D1"
+    },
+    {
+      "OfficialSymbol": "CD8A",
+      "Entrez": 925,
+      "Submitted": "CD8A",
+      "Description": "CD8 subunit alpha"
+    },
+    {
+      "OfficialSymbol": "S100A6",
+      "Entrez": 6277,
+      "Submitted": "S100A6",
+      "Description": "S100 calcium binding protein A6"
+    },
+    {
+      "OfficialSymbol": "GNLY",
+      "Entrez": 10578,
+      "Submitted": "GNLY",
+      "Description": "granulysin"
+    },
+    {
+      "OfficialSymbol": "GZMH",
+      "Entrez": 2999,
+      "Submitted": "GZMH",
+      "Description": "granzyme H"
+    },
+    {
+      "OfficialSymbol": "CXCR3",
+      "Entrez": 2833,
+      "Submitted": "CXCR3",
+      "Description": "C-X-C motif chemokine receptor 3"
+    },
+    {
+      "OfficialSymbol": "CD7",
+      "Entrez": 924,
+      "Submitted": "CD7",
+      "Description": "CD7 molecule"
+    },
+    {
+      "OfficialSymbol": "SH2D2A",
+      "Entrez": 9047,
+      "Submitted": "SH2D2A",
+      "Description": "SH2 domain containing 2A"
+    },
+    {
+      "OfficialSymbol": "CLIC3",
+      "Entrez": 9022,
+      "Submitted": "CLIC3",
+      "Description": "chloride intracellular channel 3"
+    },
+    {
+      "OfficialSymbol": "ISG15",
+      "Entrez": 9636,
+      "Submitted": "ISG15",
+      "Description": "ISG15 ubiquitin like modifier"
+    },
+    {
+      "OfficialSymbol": "KLRC1",
+      "Entrez": 3821,
+      "Submitted": "KLRC1",
+      "Description": "killer cell lectin like receptor C1"
+    },
+    {
+      "OfficialSymbol": "SYTL3",
+      "Entrez": 94120,
+      "Submitted": "SYTL3",
+      "Description": "synaptotagmin like 3"
+    },
+    {
+      "OfficialSymbol": "CD69",
+      "Entrez": 969,
+      "Submitted": "CD69",
+      "Description": "CD69 molecule"
+    },
+    {
+      "OfficialSymbol": "CD96",
+      "Entrez": 10225,
+      "Submitted": "CD96",
+      "Description": "CD96 molecule"
+    },
+    {
+      "OfficialSymbol": "GBP1",
+      "Entrez": 2633,
+      "Submitted": "GBP1",
+      "Description": "guanylate binding protein 1"
+    },
+    {
+      "OfficialSymbol": "CXCR6",
+      "Entrez": 10663,
+      "Submitted": "CXCR6",
+      "Description": "C-X-C motif chemokine receptor 6"
+    },
+    {
+      "OfficialSymbol": "MT2A",
+      "Entrez": 4502,
+      "Submitted": "MT2A",
+      "Description": "metallothionein 2A"
+    },
+    {
+      "OfficialSymbol": "CD8B",
+      "Entrez": 926,
+      "Submitted": "CD8B",
+      "Description": "CD8 subunit beta"
+    },
+    {
+      "OfficialSymbol": "GZMK",
+      "Entrez": 3003,
+      "Submitted": "GZMK",
+      "Description": "granzyme K"
+    },
+    {
+      "OfficialSymbol": "FASLG",
+      "Entrez": 356,
+      "Submitted": "FASLG",
+      "Description": "Fas ligand"
+    },
+    {
+      "OfficialSymbol": "SLPI",
+      "Entrez": 6590,
+      "Submitted": "SLPI",
+      "Description": "secretory leukocyte peptidase inhibitor"
+    },
+    {
+      "OfficialSymbol": "LAG3",
+      "Entrez": 3902,
+      "Submitted": "LAG3",
+      "Description": "lymphocyte activating 3"
+    },
+    {
+      "OfficialSymbol": "IFIT3",
+      "Entrez": 3437,
+      "Submitted": "IFIT3",
+      "Description": "interferon induced protein with tetratricopeptide repeats 3"
+    },
+    {
+      "OfficialSymbol": "ITM2C",
+      "Entrez": 81618,
+      "Submitted": "ITM2C",
+      "Description": "integral membrane protein 2C"
+    },
+    {
+      "OfficialSymbol": "XCL1",
+      "Entrez": 6375,
+      "Submitted": "XCL1",
+      "Description": "X-C motif chemokine ligand 1"
+    },
+    {
+      "OfficialSymbol": "RSAD2",
+      "Entrez": 91543,
+      "Submitted": "RSAD2",
+      "Description": "radical S-adenosyl methionine domain containing 2"
+    },
+    {
+      "OfficialSymbol": "XCL2",
+      "Entrez": 6846,
+      "Submitted": "XCL2",
+      "Description": "X-C motif chemokine ligand 2"
+    },
+    {
+      "OfficialSymbol": "ZNF683",
+      "Entrez": 257101,
+      "Submitted": "ZNF683",
+      "Description": "zinc finger protein 683"
+    },
+    {
+      "OfficialSymbol": "SERPINB3",
+      "Entrez": 6317,
+      "Submitted": "SERPINB3",
+      "Description": "serpin family B member 3"
+    },
+    {
+      "OfficialSymbol": "IL2RB",
+      "Entrez": 3560,
+      "Submitted": "IL2RB",
+      "Description": "interleukin 2 receptor subunit beta"
+    },
+    {
+      "OfficialSymbol": "IFIT1",
+      "Entrez": 3434,
+      "Submitted": "IFIT1",
+      "Description": "interferon induced protein with tetratricopeptide repeats 1"
+    },
+    {
+      "OfficialSymbol": "LINC01871",
+      "Entrez": 101929531,
+      "Submitted": "LINC01871",
+      "Description": "long intergenic non-protein coding RNA 1871"
+    },
+    {
+      "OfficialSymbol": "LINC02446",
+      "Entrez": 101060038,
+      "Submitted": "LINC02446",
+      "Description": "long intergenic non-protein coding RNA 2446"
+    },
+    {
+      "OfficialSymbol": "SLAMF7",
+      "Entrez": 57823,
+      "Submitted": "SLAMF7",
+      "Description": "SLAM family member 7"
+    },
+    {
+      "OfficialSymbol": "TNFSF14",
+      "Entrez": 8740,
+      "Submitted": "TNFSF14",
+      "Description": "TNF superfamily member 14"
+    },
+    {
+      "OfficialSymbol": "SLC2A3",
+      "Entrez": 6515,
+      "Submitted": "SLC2A3",
+      "Description": "solute carrier family 2 member 3"
+    },
+    {
+      "OfficialSymbol": "KLRC2",
+      "Entrez": 3822,
+      "Submitted": "KLRC2",
+      "Description": "killer cell lectin like receptor C2"
+    },
+    {
+      "OfficialSymbol": "PLEK",
+      "Entrez": 5341,
+      "Submitted": "PLEK",
+      "Description": "pleckstrin"
+    },
+    {
+      "OfficialSymbol": "TNFAIP3",
+      "Entrez": 7128,
+      "Submitted": "TNFAIP3",
+      "Description": "TNF alpha induced protein 3"
+    },
+    {
+      "OfficialSymbol": "TRDC",
+      "Entrez": 28526,
+      "Submitted": "TRDC",
+      "Description": "T cell receptor delta constant"
+    },
+    {
+      "OfficialSymbol": "HERC5",
+      "Entrez": 51191,
+      "Submitted": "HERC5",
+      "Description": "HECT and RLD domain containing E3 ubiquitin protein ligase 5"
+    },
+    {
+      "OfficialSymbol": "CISH",
+      "Entrez": 1154,
+      "Submitted": "CISH",
+      "Description": "cytokine inducible SH2 containing protein"
+    },
+    {
+      "OfficialSymbol": "CCL4L2",
+      "Entrez": 9560,
+      "Submitted": "CCL4L2",
+      "Description": "C-C motif chemokine ligand 4 like 2"
+    },
+    {
+      "OfficialSymbol": "ITGA1",
+      "Entrez": 3672,
+      "Submitted": "ITGA1",
+      "Description": "integrin subunit alpha 1"
+    },
+    {
+      "OfficialSymbol": "IFIT2",
+      "Entrez": 3433,
+      "Submitted": "IFIT2",
+      "Description": "interferon induced protein with tetratricopeptide repeats 2"
+    },
+    {
+      "OfficialSymbol": "KLRC3",
+      "Entrez": 3823,
+      "Submitted": "KLRC3",
+      "Description": "killer cell lectin like receptor C3"
+    },
+    {
+      "OfficialSymbol": "GPR171",
+      "Entrez": 29909,
+      "Submitted": "GPR171",
+      "Description": "G protein-coupled receptor 171"
+    },
+    {
+      "OfficialSymbol": "CCL3",
+      "Entrez": 6348,
+      "Submitted": "CCL3",
+      "Description": "C-C motif chemokine ligand 3"
+    },
+    {
+      "OfficialSymbol": "S100A8",
+      "Entrez": 6279,
+      "Submitted": "S100A8",
+      "Description": "S100 calcium binding protein A8"
+    },
+    {
+      "OfficialSymbol": "PDE4B",
+      "Entrez": 5142,
+      "Submitted": "PDE4B",
+      "Description": "phosphodiesterase 4B"
+    },
+    {
+      "OfficialSymbol": "IL18RAP",
+      "Entrez": 8807,
+      "Submitted": "IL18RAP",
+      "Description": "interleukin 18 receptor accessory protein"
+    },
+    {
+      "OfficialSymbol": "EOMES",
+      "Entrez": 8320,
+      "Submitted": "EOMES",
+      "Description": "eomesodermin"
+    },
+    {
+      "OfficialSymbol": "TIMP1",
+      "Entrez": 7076,
+      "Submitted": "TIMP1",
+      "Description": "TIMP metallopeptidase inhibitor 1"
+    },
+    {
+      "OfficialSymbol": "KIR2DL4",
+      "Entrez": 3805,
+      "Submitted": "KIR2DL4",
+      "Description": "killer cell immunoglobulin like receptor, two Ig domains and long cytoplasmic tail 4"
+    },
+    {
+      "OfficialSymbol": "SAMSN1",
+      "Entrez": 64092,
+      "Submitted": "SAMSN1",
+      "Description": "SAM domain, SH3 domain and nuclear localization signals 1"
+    },
+    {
+      "OfficialSymbol": "IFI27",
+      "Entrez": 3429,
+      "Submitted": "IFI27",
+      "Description": "interferon alpha inducible protein 27"
+    },
+    {
+      "OfficialSymbol": "PDE3B",
+      "Entrez": 5140,
+      "Submitted": "PDE3B",
+      "Description": "phosphodiesterase 3B"
+    },
+    {
+      "OfficialSymbol": "TRGV9",
+      "Entrez": 6983,
+      "Submitted": "TRGV9",
+      "Description": "T cell receptor gamma variable 9"
+    },
+    {
+      "OfficialSymbol": "BPIFA1",
+      "Entrez": 51297,
+      "Submitted": "BPIFA1",
+      "Description": "BPI fold containing family A member 1"
+    },
+    {
+      "OfficialSymbol": "RGL4",
+      "Entrez": 266747,
+      "Submitted": "RGL4",
+      "Description": "ral guanine nucleotide dissociation stimulator like 4"
+    },
+    {
+      "OfficialSymbol": "PTGDR",
+      "Entrez": 5729,
+      "Submitted": "PTGDR",
+      "Description": "prostaglandin D2 receptor"
+    },
+    {
+      "OfficialSymbol": "FGFBP2",
+      "Entrez": 83888,
+      "Submitted": "FGFBP2",
+      "Description": "fibroblast growth factor binding protein 2"
+    },
+    {
+      "OfficialSymbol": "MT1F",
+      "Entrez": 4494,
+      "Submitted": "MT1F",
+      "Description": "metallothionein 1F"
+    },
+    {
+      "OfficialSymbol": "S100A9",
+      "Entrez": 6280,
+      "Submitted": "S100A9",
+      "Description": "S100 calcium binding protein A9"
+    },
+    {
+      "OfficialSymbol": "TRGC2",
+      "Entrez": 6967,
+      "Submitted": "TRGC2",
+      "Description": "T cell receptor gamma constant 2"
+    },
+    {
+      "OfficialSymbol": "S100B",
+      "Entrez": 6285,
+      "Submitted": "S100B",
+      "Description": "S100 calcium binding protein B"
+    },
+    {
+      "OfficialSymbol": "SPON2",
+      "Entrez": 10417,
+      "Submitted": "SPON2",
+      "Description": "spondin 2"
+    },
+    {
+      "OfficialSymbol": "CSF1",
+      "Entrez": 1435,
+      "Submitted": "CSF1",
+      "Description": "colony stimulating factor 1"
+    },
+    {
+      "OfficialSymbol": "MZB1",
+      "Entrez": 51237,
+      "Submitted": "MZB1",
+      "Description": "marginal zone B and B1 cell specific protein"
+    },
+    {
+      "OfficialSymbol": "PPP2R2B",
+      "Entrez": 5521,
+      "Submitted": "PPP2R2B",
+      "Description": "protein phosphatase 2 regulatory subunit Bbeta"
+    },
+    {
+      "OfficialSymbol": "IFNG",
+      "Entrez": 3458,
+      "Submitted": "IFNG",
+      "Description": "interferon gamma"
+    },
+    {
+      "OfficialSymbol": "ADGRG3",
+      "Entrez": 222487,
+      "Submitted": "ADGRG3",
+      "Description": "adhesion G protein-coupled receptor G3"
+    },
+    {
+      "OfficialSymbol": "AREG",
+      "Entrez": 374,
+      "Submitted": "AREG",
+      "Description": "amphiregulin"
+    },
+    {
+      "OfficialSymbol": "IL18R1",
+      "Entrez": 8809,
+      "Submitted": "IL18R1",
+      "Description": "interleukin 18 receptor 1"
+    },
+    {
+      "OfficialSymbol": "HSPA1B",
+      "Entrez": 3304,
+      "Submitted": "HSPA1B",
+      "Description": "heat shock protein family A (Hsp70) member 1B"
+    },
+    {
+      "OfficialSymbol": "RGS1",
+      "Entrez": 5996,
+      "Submitted": "RGS1",
+      "Description": "regulator of G protein signaling 1"
+    },
+    {
+      "OfficialSymbol": "CRTAM",
+      "Entrez": 56253,
+      "Submitted": "CRTAM",
+      "Description": "cytotoxic and regulatory T cell molecule"
+    },
+    {
+      "OfficialSymbol": "CX3CR1",
+      "Entrez": 1524,
+      "Submitted": "CX3CR1",
+      "Description": "C-X3-C motif chemokine receptor 1"
+    },
+    {
+      "OfficialSymbol": "IGFBP7",
+      "Entrez": 3490,
+      "Submitted": "IGFBP7",
+      "Description": "insulin like growth factor binding protein 7"
+    },
+    {
+      "OfficialSymbol": "ICAM1",
+      "Entrez": 3383,
+      "Submitted": "ICAM1",
+      "Description": "intercellular adhesion molecule 1"
+    }
+  ]
+}
