@@ -1,6 +1,17 @@
 # Validation Performed
 
-All executable checks ran in a CPU compute allocation, not a login node.
+## New End-To-End Tutorials
+
+The 02_train_to_figures.ipynb notebooks and new pipeline orchestration tests were
+added after the archived validation below. Their Python cells and complete GPU
+runs have not yet been executed; compute nodes were unavailable at authoring.
+Only notebook JSON/structure, stage presence and static file checks were made.
+See 06_metadata/live_pipeline_validation.json. Do not apply the historical nine
+passing tests or archived notebook outputs to these new execution paths.
+
+## Historical Archived-Result Validation
+
+All executable checks described in this section ran in a CPU compute allocation, not a login node.
 No model training, real-data DEG recalculation, baseline fitting or live ToppGene
 request was performed.
 

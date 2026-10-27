@@ -5,17 +5,28 @@ prepared-input manuscript examples: IPF, COVID airway and lung cancer.
 
 ## Start Here
 
+- [Full H5AD-to-model-to-figure tutorial](04_docs/06_end_to_end_tutorial.md)
+- [Executable end-to-end notebook](04_docs/02_notebooks/02_train_to_figures.ipynb)
+- [IPF training pipeline](03_reproduction/01_ipf/04_notebooks/02_train_to_figures.ipynb)
+- [COVID training pipeline](03_reproduction/02_covid/04_notebooks/02_train_to_figures.ipynb)
+- [Lung training pipeline](03_reproduction/03_lung/04_notebooks/02_train_to_figures.ipynb)
 - [User guide and input contract](04_docs/01_user_guide.md)
 - [Reproduce the three dataset analyses](04_docs/02_reproduction.md)
 - [Methods and interpretation](04_docs/03_methods.md)
 - [Release boundaries and remaining publication decisions](04_docs/04_release_scope.md)
 - [Codex skill](02_skills/scbeacon-analysis/SKILL.md)
-- [Executed tutorial](04_docs/02_notebooks/01_quickstart.ipynb)
+- [Archived-results quickstart, not training](04_docs/02_notebooks/01_quickstart.ipynb)
 - [IPF results notebook](03_reproduction/01_ipf/04_notebooks/01_manuscript_results.ipynb)
 - [COVID results notebook](03_reproduction/02_covid/04_notebooks/01_manuscript_results.ipynb)
 - [Lung results notebook](03_reproduction/03_lung/04_notebooks/01_manuscript_results.ipynb)
 
-The result notebooks are inside each dataset's `04_notebooks` directory under
+The new `02_train_to_figures.ipynb` notebooks start from prepared H5AD inputs and
+actually invoke training, new pairing/DEG, QC, markers, live enrichment and new
+figures. They never use a historical embedding or plotting table instead of a
+scientific stage. Their complete GPU runs are **not yet executed or certified**;
+see the tutorial's validation status before starting a long run.
+
+The archived `01_manuscript_results.ipynb` result notebooks are inside each dataset's `04_notebooks` directory under
 `03_reproduction`. Their saved outputs are real executions that **read frozen
 source values**, not new training runs. Open them on GitHub/Jupyter without
 running cells to inspect the figures and tables. Individual plots are exported
@@ -69,8 +80,9 @@ overwritten automatically. On a personal workstation only, explicitly set
 06_metadata/       Copy identities, checksums and validation reports
 ```
 
-Large H5AD/NPY input files are present in this local copy but intentionally
-excluded by `.gitignore`. A code-only Git clone therefore needs the separately
+Large H5AD/NPY input files are present in the original server-side prepared-data
+copy, not in the Git repository, and are intentionally excluded by `.gitignore`.
+A code-only Git clone therefore needs the separately
 distributed prepared-input package before retraining. The frozen source tables
 and executed notebooks can be inspected without those large files. No external
 data archive URL is invented here; choose and document the archive before public

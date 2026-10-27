@@ -11,6 +11,12 @@ Use the same shared core in both modes; do not implement a replacement model.
 
 ## Choose the Mode
 
+- When the user asks to run from prepared inputs through the model to figures,
+  use 04_docs/06_end_to_end_tutorial.md and the 02_train_to_figures.ipynb
+  notebooks. They call PreparedInputPipeline and execute real training and all
+  new downstream stages. Set the input root to the actual prepared H5AD package
+  and choose a new output root. Do not replace this request with render, frozen
+  table loading, printed commands or an archived results notebook.
 - Inspect manuscript results through executed notebooks, inspect or render.
   Explain that frozen values are not a new training run.
 - For user data, validate raw-count inputs and create a JSON in a new workspace.
@@ -18,6 +24,10 @@ Use the same shared core in both modes; do not implement a replacement model.
   before expensive training.
 - For reproduction, use the supplied dataset config and plan. Explicitly pass
   the selected/new embedding; do not substitute seed0 for manuscript seeds.
+
+The new full-training notebooks have not yet been executed end-to-end. Report
+that boundary until a real compute-node run has completed. Existing cached
+notebook outputs and simulated orchestration tests do not certify model reruns.
 
 ## Preserve Meaning
 

@@ -22,8 +22,8 @@ def plot_run_results(cfg, args, output):
     sc.tl.umap(adata, min_dist=.8, spread=1.0, init_pos="spectral", random_state=0)
     cells = assignments[["cell_id", "condition"]].copy()
     cells["cell_type"] = assignments.true_label.astype(str)
-    previous = Path(cfg.get("reference_dir", ".")) / "umap.tsv.gz"
-    if previous.is_file():
+    previous = Path(cfg["reference_dir"]) / "umap.tsv.gz" if cfg.get("reference_dir") else None
+    if cfg.get("use_archived_display_annotations", True) and previous and previous.is_file():
         # Transfer only archived display annotations by barcode, never coordinates.
         previous = pd.read_csv(previous, sep="\t").set_index("cell_id")
         cells["cell_type"] = cells.cell_id.map(previous.cell_type).fillna(cells.cell_type)
@@ -51,7 +51,7 @@ def plot_run_results(cfg, args, output):
     selector = load_module(ROOT / "01_tool/04_downstream/pathway_display.py", "pathway_display")
     term_rows = []
     wanted = cfg.get("display_pair_labels")
-    if not wanted and cfg.get("reference_dir") and Path(cfg["reference_dir"]).is_dir():
+    if not wanted and cfg.get("use_archived_display_pairs", True) and cfg.get("reference_dir") and Path(cfg["reference_dir"]).is_dir():
         frozen_terms = Path(cfg["reference_dir"]) / "selected_pathways.tsv"
         if frozen_terms.is_file():
             wanted = pd.read_csv(frozen_terms, sep="\t").pair_label.unique().tolist()
@@ -60,6 +60,8 @@ def plot_run_results(cfg, args, output):
             continue
         path = args.enrichment_run / pair.pair_id / "06_toppgene_annotations.tsv"
         terms = pd.read_csv(path, sep="\t")
+        if terms.empty:
+            continue
         terms = terms.loc[terms.Category.eq("Pathway") & terms.Source.isin(["Reactome Pathways", "WikiPathways"])].copy()
         terms["qvalue_fdr_bh"] = pd.to_numeric(terms.QValueFDRBH, errors="coerce")
         terms["pvalue"] = pd.to_numeric(terms.PValue, errors="coerce")

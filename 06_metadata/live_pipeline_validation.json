@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-27",
+  "scope": "new prepared-input training-to-figures tutorials",
+  "status": "authored_not_executed",
+  "training_executed": false,
+  "real_data_deg_recomputed": false,
+  "live_api_executed": false,
+  "new_orchestration_tests_executed": false,
+  "new_orchestration_tests_defined": 8,
+  "notebook_structure_checks": [
+    {
+      "path": "04_docs/02_notebooks/02_train_to_figures.ipynb",
+      "dataset": "ipf",
+      "cells": 26,
+      "code_cells": 12,
+      "checks": "JSON and required-stage presence only; no Python execution",
+      "saved_training_outputs": false
+    },
+    {
+      "path": "03_reproduction/01_ipf/04_notebooks/02_train_to_figures.ipynb",
+      "dataset": "ipf",
+      "cells": 26,
+      "code_cells": 12,
+      "checks": "JSON and required-stage presence only; no Python execution",
+      "saved_training_outputs": false
+    },
+    {
+      "path": "03_reproduction/02_covid/04_notebooks/02_train_to_figures.ipynb",
+      "dataset": "covid",
+      "cells": 26,
+      "code_cells": 12,
+      "checks": "JSON and required-stage presence only; no Python execution",
+      "saved_training_outputs": false
+    },
+    {
+      "path": "03_reproduction/03_lung/04_notebooks/02_train_to_figures.ipynb",
+      "dataset": "lung",
+      "cells": 26,
+      "code_cells": 12,
+      "checks": "JSON and required-stage presence only; no Python execution",
+      "saved_training_outputs": false
+    }
+  ],
+  "compute_availability": {
+    "existing_allocations": 0,
+    "observed_partition_node_states": [
+      "fail*",
+      "down$",
+      "drain$"
+    ],
+    "note": "No compute Python was launched. No login-node Python fallback was used."
+  },
+  "scientific_core_modified": false,
+  "archived_notebook_outputs": "Preserved separately; not used as evidence for the new tutorials.",
+  "next_validation_commands": [
+    "python -m unittest discover -s 05_tests -p test_live_pipeline.py -v",
+    "Execute and save 02_train_to_figures.ipynb on a CUDA compute allocation with the current prepared H5AD package and live ToppGene network access."
+  ]
+}

@@ -79,9 +79,11 @@ def gene_symbols(cfg):
                 if symbol and symbol not in {"nan", "None"}:
                     lookup[name] = symbol
     matrix.file.close()
-    frozen = Path(cfg.get("reference_dir", ".")) / "gene_symbols.tsv"
-    if frozen.is_file():
-        frame = pd.read_csv(frozen, sep="\t")
+    annotation = cfg.get("gene_symbol_map")
+    if not annotation and cfg.get("reference_dir"):
+        annotation = str(Path(cfg["reference_dir"]) / "gene_symbols.tsv")
+    if annotation and Path(annotation).is_file():
+        frame = pd.read_csv(annotation, sep="\t")
         lookup.update(zip(frame.gene_id.astype(str), frame.gene_symbol.astype(str)))
     return lookup
 

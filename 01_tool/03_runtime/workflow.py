@@ -33,7 +33,7 @@ def config_for(dataset):
 def settings(path):
     path = Path(path).resolve()
     cfg = json.loads(path.read_text())
-    for key in ("condition1_input", "condition2_input", "combined_lognorm", "embedding", "reference_dir"):
+    for key in ("condition1_input", "condition2_input", "combined_lognorm", "embedding", "reference_dir", "gene_symbol_map"):
         if key in cfg:
             value = Path(cfg[key]).expanduser()
             cfg[key] = str((value if value.is_absolute() else path.parent / value).resolve())

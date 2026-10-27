@@ -2,10 +2,15 @@
 
 ## Modes
 
-1. **Offline numerical figure reproduction:** load the frozen source tables,
+1. **Full scientific pipeline:** start from the prepared H5ADs and execute
+   `02_train_to_figures.ipynb` for IPF, COVID or lung. It trains a new model,
+   recomputes all downstream stages and renders only this run's results. See
+   [the end-to-end tutorial](06_end_to_end_tutorial.md). Full GPU execution of
+   these new notebooks has not yet been validated.
+2. **Offline numerical figure reproduction:** load the frozen source tables,
    inspect saved notebook outputs and redraw independent panels. This mode was
    executed when preparing the release; it is not new model training.
-2. **Scientific rerun:** start at the copied prepared H5ADs, train the shared model,
+3. **Manual scientific stage interfaces:** start at the copied prepared H5ADs, train the shared model,
    recompute formal pairs, QC and DEG, then optionally call ToppGene. Interfaces
    are supplied, but full retraining was not performed to assemble this release.
 
@@ -60,7 +65,9 @@ python scbeacon.py pairs-deg --config 03_reproduction/01_ipf/01_configuration/da
 python scbeacon.py qc --config 03_reproduction/01_ipf/01_configuration/dataset.json --pair-run /your/work/ipf_pairs --output /your/work/ipf_qc --execute
 ```
 
-The release notebooks do not execute those scientific reruns. Frozen ToppGene
+The old `01_manuscript_results.ipynb` notebooks do not execute those scientific
+reruns; the new `02_train_to_figures.ipynb` notebooks do invoke the actual stages.
+Frozen ToppGene
 artifacts for displayed pairs are in 04_archived_downstream/02_toppgene. Exact
 displayed values are in 03_reference; source identities are recorded in
 06_metadata/source_copy_map.tsv. Full clean-pair ranked DEG is archived separately.
