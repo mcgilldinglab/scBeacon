@@ -1,5 +1,7 @@
 # scBeacon
 
+<img title="scBeaon Logo" alt="Alt text" src="overviewv4.pdf">
+
 One shared implementation for two-condition scBeacon analysis, plus three
 prepared-input manuscript examples: IPF, COVID airway and lung cancer.
 
